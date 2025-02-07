@@ -1,0 +1,110 @@
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.exe
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.deps.json
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.runtimeconfig.json
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.pdb
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.AssemblyReference.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\App.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.lref
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.g.resources
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfoInputs.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfo.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.CoreCompileInputs.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\refint\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.pdb
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.genruntimeconfig.cache
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ref\Laba4.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\ControlzEx.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MahApps.Metro.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.MahApps.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\App.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.CopyComplete
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Converters.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Core.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Css.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Dom.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Model.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Gdi.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Runtime.Wpf.dll
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.en-US.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.ru-RU.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\yellow.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\black.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.g.cs
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.baml
+D:\BSTU_4sem\OOP\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.exe
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.deps.json
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.runtimeconfig.json
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Laba4.pdb
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\ControlzEx.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MahApps.Metro.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\MaterialDesignThemes.MahApps.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Converters.Wpf.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Core.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Css.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Dom.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Model.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Gdi.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Rendering.Wpf.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\bin\Debug\net6.0-windows\SharpVectors.Runtime.Wpf.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.AssemblyReference.cache
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\black.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.en-US.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Strings.ru-RU.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\yellow.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\App.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.cache
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4_MarkupCompile.lref
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\App.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ChangeWindow.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\CreatePage.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\MainWindow.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ProdPage.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl1.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl2.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\UserControl3.baml
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.g.resources
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfoInputs.cache
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.AssemblyInfo.cs
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.CoreCompileInputs.cache
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.csproj.Up2Date
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\refint\Laba4.dll
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.pdb
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\Laba4.genruntimeconfig.cache
+D:\University\Анастасия Немкович (2)\Уник\Lab4\Laba4\Laba4\obj\Debug\net6.0-windows\ref\Laba4.dll

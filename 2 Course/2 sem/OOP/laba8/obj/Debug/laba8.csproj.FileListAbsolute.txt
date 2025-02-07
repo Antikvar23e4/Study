@@ -1,0 +1,36 @@
+D:\Уник\ООП\Лабы\laba8\bin\Debug\Library.mdf
+D:\Уник\ООП\Лабы\laba8\bin\Debug\Library_log.ldf
+D:\Уник\ООП\Лабы\laba8\bin\Debug\laba8.exe.config
+D:\Уник\ООП\Лабы\laba8\bin\Debug\laba8.exe
+D:\Уник\ООП\Лабы\laba8\bin\Debug\laba8.pdb
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8.csproj.AssemblyReference.cache
+D:\Уник\ООП\Лабы\laba8\obj\Debug\MainWindow.g.cs
+D:\Уник\ООП\Лабы\laba8\obj\Debug\App.g.cs
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8_Content.g.cs
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8_MarkupCompile.cache
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8_MarkupCompile.lref
+D:\Уник\ООП\Лабы\laba8\obj\Debug\MainWindow.baml
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8.g.resources
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8.Properties.Resources.resources
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8.csproj.GenerateResource.cache
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8.exe
+D:\Уник\ООП\Лабы\laba8\obj\Debug\laba8.pdb
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\bin\Debug\Library.mdf
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\bin\Debug\Library_log.ldf
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\bin\Debug\laba8.exe.config
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\bin\Debug\laba8.exe
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\bin\Debug\laba8.pdb
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8.csproj.AssemblyReference.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\MainWindow.g.cs
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\App.g.cs
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8_Content.g.cs
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8_MarkupCompile.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8_MarkupCompile.lref
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\MainWindow.baml
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8.g.resources
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8.Properties.Resources.resources
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8.csproj.GenerateResource.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8.csproj.CoreCompileInputs.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8.exe
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\laba8\obj\Debug\laba8.pdb

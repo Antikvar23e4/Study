@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Format>EPUB </Format>
+    <Size>1200</Size>
+    <Title>Ля ля ля тополя</Title>
+    <UDC>1</UDC>
+    <PageCount>10</PageCount>
+    <UploadDate>2023-08-23T18:07:35</UploadDate>
+    <PublishingHouse>
+      <Name>Крутое</Name>
+      <Country>Крутая</Country>
+      <City>Крутой</City>
+      <FoundationYear>1999</FoundationYear>
+      <IsPrivate>false</IsPrivate>
+    </PublishingHouse>
+    <Year>2024</Year>
+    <Authors>
+      <Author>
+        <FIO>Кто Кто Кто</FIO>
+        <Country>Англия</Country>
+        <ID>1</ID>
+      </Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Format>EPUB </Format>
+    <Size>99999</Size>
+    <Title>Приколы</Title>
+    <UDC>32</UDC>
+    <PageCount>100</PageCount>
+    <UploadDate>2020-03-09T18:12:23</UploadDate>
+    <PublishingHouse>
+      <Name>Класссное</Name>
+      <Country>Класссная</Country>
+      <City>Класссный</City>
+      <FoundationYear>1998</FoundationYear>
+      <IsPrivate>true</IsPrivate>
+    </PublishingHouse>
+    <Year>2024</Year>
+    <Authors>
+      <Author>
+        <FIO>Шутник Шутник Шутник</FIO>
+        <Country>Америка</Country>
+        <ID>2</ID>
+      </Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Format>TXT</Format>
+    <Size>6666</Size>
+    <Title>Анекдоты</Title>
+    <UDC>35</UDC>
+    <PageCount>100</PageCount>
+    <UploadDate>2035-03-08T18:23:13</UploadDate>
+    <PublishingHouse>
+      <Name>Супер</Name>
+      <Country>Супер</Country>
+      <City>Супер</City>
+      <FoundationYear>2005</FoundationYear>
+      <IsPrivate>false</IsPrivate>
+    </PublishingHouse>
+    <Year>2024</Year>
+    <Authors>
+      <Author>
+        <FIO>Жук Жук Жук</FIO>
+        <Country>Франция</Country>
+        <ID>2</ID>
+      </Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Format>TXT</Format>
+    <Size>6666</Size>
+    <Title>Анекдоты</Title>
+    <UDC>35</UDC>
+    <PageCount>100</PageCount>
+    <UploadDate>2035-03-08T18:23:13</UploadDate>
+    <PublishingHouse>
+      <Name>Супер</Name>
+      <Country>Супер</Country>
+      <City>Супер</City>
+      <FoundationYear>2005</FoundationYear>
+      <IsPrivate>false</IsPrivate>
+    </PublishingHouse>
+    <Year>2024</Year>
+    <Authors>
+      <Author>
+        <FIO>Жук Жук Жук</FIO>
+        <Country>Франция</Country>
+        <ID>2</ID>
+      </Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Format>TXT</Format>
+    <Size>100010</Size>
+    <Title>Бананчики</Title>
+    <UDC>35</UDC>
+    <PageCount>100</PageCount>
+    <UploadDate>2024-03-20T18:26:22</UploadDate>
+    <PublishingHouse>
+      <Name>Слово</Name>
+      <Country>Слово</Country>
+      <City>Слово</City>
+      <FoundationYear>1999</FoundationYear>
+      <IsPrivate>false</IsPrivate>
+    </PublishingHouse>
+    <Year>2024</Year>
+    <Authors>
+      <Author>
+        <FIO>Аааа Аааа Ааа</FIO>
+        <Country>Италия</Country>
+        <ID>1</ID>
+      </Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Format>EPUB </Format>
+    <Size>10494</Size>
+    <Title>Бвсв</Title>
+    <UDC>31</UDC>
+    <PageCount>100</PageCount>
+    <UploadDate>2024-05-28T19:49:25</UploadDate>
+    <PublishingHouse>
+      <Name>Ртты </Name>
+      <Country>Оотч </Country>
+      <City>фвва</City>
+      <FoundationYear>1999</FoundationYear>
+      <IsPrivate>false</IsPrivate>
+    </PublishingHouse>
+    <Year>2024</Year>
+    <Authors>
+      <Author>
+        <FIO>Ртт Рртт Рртт</FIO>
+        <Country>Америка</Country>
+        <ID>1</ID>
+      </Author>
+    </Authors>
+  </Book>
+</ArrayOfBook>

@@ -1,0 +1,64 @@
+﻿<Window x:Class="Laba4.ChangeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laba4" Cursor="D:\\BSTU_4sem\\OOP\\Lab4\\Fonts\\UpArrow.cur"
+        mc:Ignorable="d"  Icon="D:\\BSTU_4sem\\OOP\\Lab4\\Fonts\\tickets-ticket-svgrepo-com.png"
+        Title="TicketsPro" WindowState="Maximized" MinWidth="450">
+    <Grid>
+        <ScrollViewer>
+            <StackPanel Margin="20, 0, 20, 10">
+                <Image Source="D:\BSTU_4sem\OOP\Lab4\Photo\back-svgrepo-com.png" x:Name="backButton" MouseLeftButtonDown="Back" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String23}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBox Name="ChangeName" IsReadOnly="True" Width="300" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String24}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock Text="{DynamicResource String25}"/>
+                <TextBox Name="ChangePrice" Width="300" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String26}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock Text="{DynamicResource String27}"/>
+                <TextBox Name="ChangeTickets" Width="300" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String28}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock TextWrapping="Wrap" Text="{DynamicResource String29}"/>
+                <TextBox Name="ChangeActual" Width="300" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String30}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock Text="{DynamicResource String31}"/>
+                <TextBox Name="ChangeDescription" Width="300" HorizontalAlignment="Left" Height="50" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String32}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock Text="{DynamicResource String33}"/>
+                <TextBox Name="ChangeShortDescription" Width="300" HorizontalAlignment="Left"/>
+                <TextBlock TextWrapping="Wrap" Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String34}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock Text="{DynamicResource String35}"/>
+
+                <WrapPanel Orientation="Horizontal">
+                    <DatePicker Name="ChangeDatePicker" Width='300' HorizontalAlignment="Left"/>
+                    <TextBox x:Name="TextChangeTimePicker" Width="80" HorizontalAlignment="Left"/>
+                </WrapPanel>
+
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String36}" Foreground="{DynamicResource ForegroundColor}"/>
+                <ComboBox Name="ChangeLocation" Width="300" SelectedIndex="0" HorizontalAlignment="Left">
+                    <ComboBoxItem Content="{DynamicResource String14}"/>
+                    <ComboBoxItem Content="{DynamicResource String15}"/>
+                    <ComboBoxItem Content="{DynamicResource String16}"/>
+                    <ComboBoxItem Content="{DynamicResource String17}"/>
+                    <ComboBoxItem Content="{DynamicResource String18}"/>
+                </ComboBox>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String37}" Foreground="{DynamicResource ForegroundColor}"/>
+                <ComboBox Name="ChangeCategory" Width="300" SelectedIndex="0" HorizontalAlignment="Left">
+                    <ComboBoxItem Content="{DynamicResource String9}"/>
+                    <ComboBoxItem Content="{DynamicResource String10}"/>
+                    <ComboBoxItem Content="{DynamicResource String11}"/>
+                    <ComboBoxItem Content="{DynamicResource String12}"/>
+                    <ComboBoxItem Content="{DynamicResource String13}"/>
+                </ComboBox>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String38}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock Text="{DynamicResource String39}"/>
+                <TextBlock Margin="0 10 0 0" FontWeight="Bold" FontSize="16" Text="{DynamicResource String40}" Foreground="{DynamicResource ForegroundColor}"/>
+                <TextBlock Text="{DynamicResource String41}"/>
+                <WrapPanel x:Name="imageStackPanel" Orientation="Horizontal"></WrapPanel>
+                <Button Content="{DynamicResource String44}" Margin="0 20 0 0" Height="30" Width="200" Background="{DynamicResource ForegroundColor}" Click="ChangeItem" Foreground="{DynamicResource BackgroundColor}" FontWeight="Bold" HorizontalAlignment="Left"/>
+                <Button Content="{DynamicResource String45}" Margin="0 20 0 0" Height="30" Width="200" Background="{DynamicResource ForegroundColor}" Click="DeleteItem" Foreground="{DynamicResource BackgroundColor}" FontWeight="Bold" HorizontalAlignment="Left"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

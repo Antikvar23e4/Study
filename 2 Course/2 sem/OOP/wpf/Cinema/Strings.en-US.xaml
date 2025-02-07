@@ -1,0 +1,25 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:String x:Key="EditModeText">Edit mode</system:String>
+    <system:String x:Key="ViewModeText">Create View</system:String>
+    <system:String x:Key="MoreDetailsText">More Details</system:String>
+    <system:String x:Key="RatingLabelText">Rating:</system:String>
+    <system:String x:Key="PriceLabelText">Price:</system:String>
+    <system:String x:Key="GenresLabelText">Genres:</system:String>
+    <system:String x:Key="DescriptionLabelText">Description:</system:String>
+    <system:String x:Key="TitleLabel">Title:</system:String>
+    <system:String x:Key="GenresLabel">Genres:</system:String>
+    <system:String x:Key="PriceLabel">Price:</system:String>
+    <system:String x:Key="RatingLabel">Rating:</system:String>
+     <system:String x:Key="ImagePathLabel">Image File Path:</system:String>
+     <system:String x:Key="DescriptionLabel">Description:</system:String>
+     <system:String x:Key="CreateButton">Create</system:String>
+     <system:String x:Key="UpdateButton">Update</system:String>
+     <system:String x:Key="DeleteButton">Delete</system:String>
+     <system:String x:Key="BrowseButton">Browse</system:String>
+    <system:String x:Key="Review1">Please rate</system:String>
+    <system:String x:Key="Review2">More details</system:String>
+    <system:String x:Key="Review3">Send</system:String>
+
+</ResourceDictionary>

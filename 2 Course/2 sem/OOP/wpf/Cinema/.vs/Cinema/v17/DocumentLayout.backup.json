@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\editmodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:editmodewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\wpf\\cinema\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\strings.en-us.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:strings.en-us.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\strings.ru-ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:strings.ru-ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\editmodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:editmodewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\theme\\pinktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:theme\\pinktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\theme\\bluetheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:theme\\bluetheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\moviedetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:moviedetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB1E488-31B8-4892-AA3B-A5B545F5FDC2}|Cinema.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Strings.en-US.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Strings.en-US.xaml",
+              "RelativeDocumentMoniker": "Strings.en-US.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Strings.en-US.xaml",
+              "RelativeToolTip": "Strings.en-US.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T19:36:56.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "UserControl1.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\UserControl1.xaml.cs",
+              "RelativeToolTip": "UserControl1.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwD8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:52:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "UserControl1.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\UserControl1.xaml",
+              "RelativeToolTip": "UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T08:48:34.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T08:38:43.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAywCcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:40:59.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditModeWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\EditModeWindow.xaml",
+              "RelativeDocumentMoniker": "EditModeWindow.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\EditModeWindow.xaml",
+              "RelativeToolTip": "EditModeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T12:42:46.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Strings.ru-RU.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Strings.ru-RU.xaml",
+              "RelativeDocumentMoniker": "Strings.ru-RU.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Strings.ru-RU.xaml",
+              "RelativeToolTip": "Strings.ru-RU.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T19:37:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PinkTheme.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Theme\\PinkTheme.xaml",
+              "RelativeDocumentMoniker": "Theme\\PinkTheme.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Theme\\PinkTheme.xaml",
+              "RelativeToolTip": "Theme\\PinkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T14:27:08.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditModeWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\EditModeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditModeWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\EditModeWindow.xaml.cs",
+              "RelativeToolTip": "EditModeWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:18:25.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlueTheme.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Theme\\BlueTheme.xaml",
+              "RelativeDocumentMoniker": "Theme\\BlueTheme.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\Theme\\BlueTheme.xaml",
+              "RelativeToolTip": "Theme\\BlueTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T14:27:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieDetailsPage.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\MovieDetailsPage.xaml",
+              "RelativeDocumentMoniker": "MovieDetailsPage.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\MovieDetailsPage.xaml",
+              "RelativeToolTip": "MovieDetailsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T07:16:49.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:30:52.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\wpf\\Cinema\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T12:21:08.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

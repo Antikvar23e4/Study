@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615B4192-29FC-4AEB-8803-9702A01924D9}|lab8_1.csproj|D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615B4192-29FC-4AEB-8803-9702A01924D9}|lab8_1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B4192-29FC-4AEB-8803-9702A01924D9}|lab8_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\lab8_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{615B4192-29FC-4AEB-8803-9702A01924D9}|lab8_1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615B4192-29FC-4AEB-8803-9702A01924D9}|lab8_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\lab8_1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{615B4192-29FC-4AEB-8803-9702A01924D9}|lab8_1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 640,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-30T15:07:12.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwGAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:20:24.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\lab8_1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T08:20:25.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.csproj.AssemblyReference.cache
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\App.g.cs
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9_MarkupCompile.cache
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9_MarkupCompile.lref
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.exe
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.dll.config
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.deps.json
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.runtimeconfig.json
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.pdb
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.g.resources
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.AssemblyInfoInputs.cache
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.AssemblyInfo.cs
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.csproj.Up2Date
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.dll
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\refint\lab9.dll
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.pdb
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.genruntimeconfig.cache
+D:\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\ref\lab9.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.exe
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.dll.config
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.deps.json
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.runtimeconfig.json
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\lab9.pdb
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.csproj.AssemblyReference.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\App.g.cs
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9_MarkupCompile.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9_MarkupCompile.lref
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\MainWindow.baml
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.g.resources
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.AssemblyInfoInputs.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.AssemblyInfo.cs
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.csproj.CoreCompileInputs.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.csproj.Up2Date
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\refint\lab9.dll
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.pdb
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\lab9.genruntimeconfig.cache
+D:\University\Анастасия Немкович (2)\Уник\ООП\Лабы\lab9\obj\Debug\net8.0-windows\ref\lab9.dll

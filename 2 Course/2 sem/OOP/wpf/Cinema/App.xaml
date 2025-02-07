@@ -1,0 +1,19 @@
+﻿<Application x:Class="Cinema.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Cinema"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/ComboBoxStyles.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Strings.en-US.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Strings.ru-RU.xaml"/>
+                <ResourceDictionary Source="Theme/MainTheme.xaml"/>
+                <ResourceDictionary Source="Theme/PinkTheme.xaml"/>
+                <ResourceDictionary Source="Theme/BlueTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

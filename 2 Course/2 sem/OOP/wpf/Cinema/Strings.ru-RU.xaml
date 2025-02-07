@@ -1,0 +1,24 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="EditModeText">Redactirovanie</system:String>
+    <system:String x:Key="ViewModeText">Ostavit otziv</system:String>
+    <system:String x:Key="MoreDetailsText">Podrobnee</system:String>
+    <system:String x:Key="RatingLabelText">Reiting:</system:String>
+    <system:String x:Key="PriceLabelText">Cena:</system:String>
+    <system:String x:Key="GenresLabelText">Ganry:</system:String>
+    <system:String x:Key="DescriptionLabelText">Opisanie:</system:String>
+    <system:String x:Key="TitleLabel">Nazvanie:</system:String>
+    <system:String x:Key="GenresLabel">Ganry:</system:String>
+    <system:String x:Key="PriceLabel">Cena:</system:String>
+    <system:String x:Key="RatingLabel">Reiting:</system:String>
+    <system:String x:Key="ImagePathLabel">Put k failu</system:String>
+    <system:String x:Key="DescriptionLabel">Opisanie</system:String>
+    <system:String x:Key="CreateButton">Sozdat</system:String>
+    <system:String x:Key="UpdateButton">Obnovit</system:String>
+    <system:String x:Key="DeleteButton">Udalite</system:String>
+    <system:String x:Key="BrowseButton">Otkrit</system:String>
+    <system:String x:Key="Review1">Postavte ocenku</system:String>
+    <system:String x:Key="Review2">Bolshe detalei</system:String>
+    <system:String x:Key="Review3">Otpravit</system:String>
+</ResourceDictionary>

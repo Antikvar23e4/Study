@@ -1,0 +1,71 @@
+﻿<Window x:Class="Laba4.ProdPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laba4"  Cursor="D:\\BSTU_4sem\\OOP\\Lab4\\Fonts\\UpArrow.cur"
+        mc:Ignorable="d" MinWidth="550" xmlns:uc="Laba4.UserControl1" xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
+        Title="TicketsPro" WindowState="Maximized" Icon="D:\\BSTU_4sem\\OOP\\Lab4\\Fonts\\tickets-ticket-svgrepo-com.png">
+    <Window.Resources>
+        
+        <local:MinValueConverter x:Key="MinValueConverter"/>
+        <local:MaxValueConverter x:Key="MaxValueConverter"/>
+
+        <Style x:Key="OrangeTextBoxStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="28"/>
+            <Setter Property="Foreground" Value="{DynamicResource ForegroundColor}"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+    </Window.Resources>
+    <ScrollViewer>
+        <Grid Margin="20 0 60 0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel Grid.Column="0" x:Name="infoStackPanel" Orientation="Vertical">
+
+            <Image Source="D:\BSTU_4sem\OOP\Lab4\Photo\back-svgrepo-com.png" x:Name="backButton" MouseLeftButtonDown="Back" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+
+            <TextBlock x:Name="mainName" Text="{Binding Name, StringFormat=Спектакль {0}}" Style="{StaticResource OrangeTextBoxStyle}"/>
+
+            <WrapPanel Orientation="Horizontal">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="D:\BSTU_4sem\OOP\Lab4\Photo\calendar-days-svgrepo-com.png" Width="37" Height="45" HorizontalAlignment="Left"/>
+                    <TextBlock Text="{Binding dateTime, StringFormat=dd.MM.yyyy}" FontSize="18" FontWeight="Bold" VerticalAlignment="Center" Margin="5 0 5 0"/>
+                        <TextBlock Text="{Binding Time}" FontSize="18" FontWeight="Bold" VerticalAlignment="Center" Margin="5 0 5 0"/>
+                    </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="D:\BSTU_4sem\OOP\Lab4\Photo\location-pin-svgrepo-com.png" Width="37" Height="45" HorizontalAlignment="Left"/>
+                    <TextBlock Text="{Binding Location}" FontWeight="Bold"  FontSize="18" VerticalAlignment="Center" Margin="5 0 10 0"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="D:\BSTU_4sem\OOP\Lab4\Photo\tickets-svgrepo-com.png" Width="37" Height="45" HorizontalAlignment="Left"/>
+                    <TextBlock Text="{Binding Price, Converter={StaticResource MinValueConverter}}"  FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5 0 5 0" FontWeight="Bold"/>
+                    <TextBlock Text="{Binding Price, Converter={StaticResource MaxValueConverter}}"  FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Center" FontWeight="Bold"/>
+                </StackPanel>
+            </WrapPanel>
+
+            <TextBlock Text="{Binding Description}"  FontSize="18" HorizontalAlignment="Left" Margin="0,10,0,0" TextWrapping="Wrap" TextAlignment="Justify"/>
+            <TextBlock Text="{Binding TicketCount, StringFormat='Билетов осталось: {0}'}" Margin="0 10 0 0"  FontSize="18"/>
+            <TextBlock Text="{Binding Category, StringFormat='Категория: {0}'}" Margin="0 10 0 0"  FontSize="18"/>
+
+                <TextBlock Style="{StaticResource OrangeTextBoxStyle}" Text="{DynamicResource String47}" />
+                <WrapPanel x:Name="wraForImages">
+            </WrapPanel>
+                <TextBlock Style="{StaticResource OrangeTextBoxStyle}" Text="{DynamicResource String49}" />
+                <local:UserControl1 CommentSubmitted="CommentControl_CommentSubmitted"/>
+
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" x:Name="mainPanel" Orientation="Vertical">
+
+                <Image x:Name="mainImage" Source="{Binding ImageFilePath}" HorizontalAlignment="Right" Width="450" Height="Auto" Margin="60,0,0,0"/>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+
+</Window>

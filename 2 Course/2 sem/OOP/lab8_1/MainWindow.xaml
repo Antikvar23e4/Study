@@ -1,0 +1,146 @@
+﻿<Window x:Class="lab8_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab8_1"
+        mc:Ignorable="d"
+         Title="MainWindow" Height="700" Width="1200" Loaded="Window_Loaded">
+    <Grid>
+        <TabControl>
+            <TabItem Header="FileBook">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="133*"/>
+                        <ColumnDefinition Width="1061*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="add_btn_filebook" Click="add_btn_Click"  Content="Добавить" HorizontalAlignment="Left" Margin="82,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.ColumnSpan="2"/>
+                    <Button x:Name="update_btn_filebook" Click="update_btn_Click"  Content="Изменить" HorizontalAlignment="Left" Margin="51,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="1"/>
+                    <Button x:Name="delete_btn_filebook"  Click="delete_btn_Click" Content="Удалить" HorizontalAlignment="Left" Margin="155,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="1"/>
+                    <Button x:Name="clear_btn_filebook" Click="clear_btn_Click" Content="Очистить" HorizontalAlignment="Left" Margin="157,578,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="1" />
+                    <DataGrid KeyboardNavigation.DirectionalNavigation="Contained" Name="myDataGridBooks" SelectionChanged="SelectionChanged_DataGrid" IsReadOnly="True" AutoGenerateColumns="False"  Margin="365,10,0,-10" ItemsSource="{Binding}" BorderBrush="#FFA2D2FF" HorizontalAlignment="Left" Width="Auto" Grid.Column="1">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Book_id" Binding="{Binding Book_id}"/>
+                            <DataGridTextColumn Header="Title" Binding="{Binding Title}"/>
+                            <DataGridTextColumn Header="Format" Binding="{Binding Format}"/>
+                            <DataGridTextColumn Header="File_size" Binding="{Binding File_size}"/>
+                            <DataGridTextColumn Header="UDC" Binding="{Binding UDC}"/>
+                            <DataGridTextColumn Header="Page_count" Binding="{Binding Page_count}"/>
+                            <DataGridTextColumn Header="Publisher" Binding="{Binding Publisher}"/>
+                            <DataGridTextColumn Header="Year_published" Binding="{Binding Year_published}"/>
+                            <DataGridTextColumn Header="Upload_date" Binding="{Binding Upload_date, StringFormat={}{0:dd MMMM yyyy}}"/>
+                            <DataGridTemplateColumn Header="Image">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Source="{Binding Image_path}" Width="100" Height="80"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <ComboBox FontFamily="Cascadia Mono" x:Name="SortComboboxBook"  HorizontalAlignment="Left" Margin="42,579,0,0" VerticalAlignment="Top" Width="120" BorderBrush="White" SelectedIndex="0" FontSize="10" Grid.ColumnSpan="2">
+                        <ComboBoxItem Content="Book_id"/>
+                        <ComboBoxItem Content="Title"/>
+                        <ComboBoxItem Content="File_size"/>
+                        <ComboBoxItem Content="Publisher"/>
+                        <ComboBoxItem Content="Year_published"/>
+                        <ComboBoxItem Content="Upload_date"/>
+                    </ComboBox>
+
+                    <TextBox x:Name="title" HorizontalAlignment="Left" Margin="39,32,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="27" Grid.Column="1"/>
+                    <TextBox  x:Name="format" HorizontalAlignment="Left" Margin="39,70,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="26" Grid.Column="1"/>
+                    <TextBox  x:Name="file_size" HorizontalAlignment="Left" Margin="39,107,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="26" Grid.Column="1"/>
+                    <TextBox  x:Name="udc" HorizontalAlignment="Left" Margin="39,145,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="26" Grid.Column="1"/>
+                    <TextBox  x:Name="page_count" HorizontalAlignment="Left" Margin="39,184,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="26" Grid.Column="1"/>
+                    <TextBox  x:Name="publisher" HorizontalAlignment="Left" Margin="39,226,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="26" Grid.Column="1"/>
+                    <TextBox  x:Name="year_published" HorizontalAlignment="Left" Margin="39,266,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="26" Grid.Column="1"/>
+                    <TextBox  x:Name="upload_date" HorizontalAlignment="Left" Margin="39,312,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="182" Height="26" Grid.Column="1"/>
+                    <Rectangle x:Name="image_rectangle" HorizontalAlignment="Left" Height="67" Margin="60,358,0,0" Stroke="#FF867F7F" VerticalAlignment="Top" Width="102" Fill="White" Grid.Column="1"/>
+                    <Image x:Name="image" HorizontalAlignment="Left" Height="72" Margin="60,358,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.506,0.521" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Center" Margin="0,271,0,0" TextWrapping="Wrap" Text="Год издания" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="33,150,0,0" TextWrapping="Wrap" Text="Код УДК" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="30,189,0,0" TextWrapping="Wrap" Text="Кол-во страниц" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Center" Margin="0,231,0,0" TextWrapping="Wrap" Text="Издательство" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="30,315,0,0" TextWrapping="Wrap" Text="Дата загрузки" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="30,363,0,0" TextWrapping="Wrap" Text="Обложка" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="30,33,0,0" TextWrapping="Wrap" Text="Название" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="30,75,0,0" TextWrapping="Wrap" Text="Формат" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="30,112,0,0" TextWrapping="Wrap" Text="Размер(Мб)" VerticalAlignment="Top"/>
+                    <Button Content="Choose"  Click="select_photo_Click"   HorizontalAlignment="Left" Margin="237,358,0,0" VerticalAlignment="Top" Height="26" Width="43" Grid.Column="1"/>
+                    <Image x:Name="SortFlag_book" MouseLeftButtonDown="SortFlag_MouseLeftButtonDown" HorizontalAlignment="Left" Height="22" Margin="39,579,0,0" VerticalAlignment="Top" Width="22" RenderTransformOrigin="0.501,0.464" Source="D:\Уник\ООП\Лабы\laba8\картинки\Arrow_Up_Down.png" Grid.Column="1"/>
+                    <Image x:Name="nextElement_book" MouseLeftButtonDown="nextElementBtn_MouseLeftButtonDown" HorizontalAlignment="Left" Height="35" Margin="319,360,0,0" VerticalAlignment="Top" Width="34" Grid.Column="1" Source="D:\Уник\ООП\Лабы\laba8\картинки\Carret_Up.png"/>
+                    <Image x:Name="previousElement_book" MouseLeftButtonDown="previousElementBtn_MouseLeftButtonDown" HorizontalAlignment="Left" Height="35" Margin="319,405,0,0" VerticalAlignment="Top" Width="35" Grid.Column="1" Source="D:\Уник\ООП\Лабы\laba8\картинки\Carret_Down.png"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Author">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="77*"/>
+                        <ColumnDefinition Width="520*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock HorizontalAlignment="Left" Margin="95,38,0,0" TextWrapping="Wrap" Text="ФИО" VerticalAlignment="Top"/>
+                    <TextBox x:Name="authorName" HorizontalAlignment ="Left" Margin="15,30,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="179" Height="30" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="95,82,0,0" TextWrapping="Wrap" Text="Страна" VerticalAlignment="Top"/>
+                    <TextBox x:Name="authorCountry" HorizontalAlignment="Left" Margin="15,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" Height="30" Grid.Column="1"/>
+                    
+                    <Button x:Name="add_btn_author" Click="add_btn_Click"  Content="Добавить" HorizontalAlignment="Left" Margin="82,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.ColumnSpan="2"/>
+                    <Button x:Name="update_btn_author" Click="update_btn_Click"  Content="Изменить" HorizontalAlignment="Left" Margin="30,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="1"/>
+                    <Button x:Name="delete_btn_author" Click="delete_btn_Click"   Content="Удалить" HorizontalAlignment="Left" Margin="134,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="1"/>
+                    <Button x:Name="clear_btn_author" Click="clear_btn_Click"  Content="Очистить" HorizontalAlignment="Left" Margin="136,578,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="1" />
+                    <DataGrid KeyboardNavigation.DirectionalNavigation="Contained" Name="myDataGridAuthor" SelectionChanged="SelectionChanged_DataGrid" IsReadOnly="True" AutoGenerateColumns="False"  Margin="344,10,0,-10" ItemsSource="{Binding}" BorderBrush="#FFA2D2FF" HorizontalAlignment="Left" Width="700" Grid.Column="1">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Author_id" Binding="{Binding Author_id}"/>
+                            <DataGridTextColumn Header="Full_Name" Binding="{Binding Full_name}"/>
+                            <DataGridTextColumn Header="Country" Binding="{Binding Country}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <ComboBox FontFamily="Cascadia Mono" x:Name="SortComboboxAuthor"  HorizontalAlignment="Left" Margin="42,579,0,0" VerticalAlignment="Top" Width="120" BorderBrush="White" SelectedIndex="0" FontSize="10" Grid.ColumnSpan="2">
+                        <ComboBoxItem Content="Author_id"/>
+                        <ComboBoxItem Content="Full_Name"/>
+                        <ComboBoxItem Content="Country"/>
+                    </ComboBox>
+                    <Image x:Name="SortFlag_author" MouseLeftButtonDown="SortFlag_MouseLeftButtonDown" HorizontalAlignment="Left" Height="22" Margin="15,576,0,0" VerticalAlignment="Top" Width="22" RenderTransformOrigin="0.501,0.464" Source="D:\Уник\ООП\Лабы\laba8\картинки\Arrow_Up_Down.png" Grid.Column="1"/>
+                    <Image x:Name="nextElement_author" MouseLeftButtonDown="nextElementBtn_MouseLeftButtonDown" HorizontalAlignment="Left" Height="35" Margin="302,388,0,0" VerticalAlignment="Top" Width="34" Grid.Column="1" Source="D:\Уник\ООП\Лабы\laba8\картинки\Carret_Up.png" RenderTransformOrigin="-0.191,1.252"/>
+                    <Image x:Name="previousElement_author" MouseLeftButtonDown="previousElementBtn_MouseLeftButtonDown" HorizontalAlignment="Left" Height="35" Margin="302,422,0,0" VerticalAlignment="Top" Width="35" Grid.Column="1" Source="D:\Уник\ООП\Лабы\laba8\картинки\Carret_Down.png"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="BookAuthors">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="20*"/>
+                        <ColumnDefinition Width="75*"/>
+                        <ColumnDefinition Width="1099*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="add_btn_bookauthors" Click="add_btn_Click"  Content="Добавить" HorizontalAlignment="Left" Margin="62,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.ColumnSpan="2" Grid.Column="1"/>
+                    <Button x:Name="update_btn_bookauthors" Click="update_btn_Click"  Content="Изменить" HorizontalAlignment="Left" Margin="90,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="2"/>
+                    <Button x:Name="delete_btn_bookauthors" Click="delete_btn_Click" Content="Удалить" HorizontalAlignment="Left" Margin="194,518,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="2"/>
+                    <Button x:Name="clear_btn_bookauthors" Click="clear_btn_Click" Content="Очистить" HorizontalAlignment="Left" Margin="196,578,0,0" VerticalAlignment="Top" Width="80" Height="20" Grid.Column="2" />
+                    <DataGrid KeyboardNavigation.DirectionalNavigation="Contained" Name="myDataGridBookAuthors" SelectionChanged="SelectionChanged_DataGrid" IsReadOnly="True" AutoGenerateColumns="False"  Margin="404,10,0,-10" ItemsSource="{Binding}" BorderBrush="#FFA2D2FF" HorizontalAlignment="Left" Width="700" Grid.Column="2">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="BookAuthor_id" Binding="{Binding BookAuthor_id}"/>
+                            <DataGridTextColumn Header="Book_id" Binding="{Binding Book_id}"/>
+                            <DataGridTextColumn Header="Author_id" Binding="{Binding Author_id}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <ComboBox x:Name="purchases_book_combobox" HorizontalAlignment="Left" Margin="70,40,0,0" VerticalAlignment="Top" Width="180" Height="27" Grid.Column="2"/>
+                    <ComboBox x:Name="purchases_author_combobox" HorizontalAlignment="Left" Margin="70,97,0,0" VerticalAlignment="Top" Width="180" Height="27" Grid.Column="2"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="50,43,0,0" TextWrapping="Wrap" Text="Книга" VerticalAlignment="Top" Width="68" Height="26" RenderTransformOrigin="1.727,0.786" Grid.ColumnSpan="2" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="50,100,0,0" TextWrapping="Wrap" Text="Автор" VerticalAlignment="Top" Width="68" Height="26" RenderTransformOrigin="1.727,0.786" Grid.ColumnSpan="2" Grid.Column="1"/>
+                    <ComboBox FontFamily="Cascadia Mono" x:Name="SortComboboxBooksAuthors"  HorizontalAlignment="Left" Margin="38,581,0,0" VerticalAlignment="Top" Width="120" BorderBrush="White" SelectedIndex="0" FontSize="10" Grid.ColumnSpan="2" Grid.Column="1">
+                        <ComboBoxItem Content="BookAuthor_id"/>
+                        <ComboBoxItem Content="Book_id"/>
+                        <ComboBoxItem Content="Author_id"/>
+                    </ComboBox>
+                    <Image x:Name="SortFlag_bookauthors" MouseLeftButtonDown="SortFlag_MouseLeftButtonDown" HorizontalAlignment="Left" Height="22" Margin="90,579,0,0" VerticalAlignment="Top" Width="22" RenderTransformOrigin="0.501,0.464" Source="D:\Уник\ООП\Лабы\laba8\картинки\Arrow_Up_Down.png" Grid.Column="2"/>
+                    <Image x:Name="nextElement_bookauthors" MouseLeftButtonDown="nextElementBtn_MouseLeftButtonDown" HorizontalAlignment="Left" Height="35" Margin="335,338,0,0" VerticalAlignment="Top" Width="34" Grid.Column="2" Source="D:\Уник\ООП\Лабы\laba8\картинки\Carret_Up.png"/>
+                    <Image x:Name="previousElement_bookauthors" MouseLeftButtonDown="previousElementBtn_MouseLeftButtonDown" HorizontalAlignment="Left" Height="35" Margin="334,401,0,0" VerticalAlignment="Top" Width="35" Grid.Column="2" Source="D:\Уник\ООП\Лабы\laba8\картинки\Carret_Down.png"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

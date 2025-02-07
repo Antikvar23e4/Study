@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u041D\u0435\u043C\u043A\u043E\u0432\u0438\u0447 (2)\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\laba8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{072223FE-A266-4C6C-B983-C7FADC46AE61}|laba8.csproj|d:\\university\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u043D\u0435\u043C\u043A\u043E\u0432\u0438\u0447 (2)\\\u0443\u043D\u0438\u043A\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u044B\\laba8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072223FE-A266-4C6C-B983-C7FADC46AE61}|laba8.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072223FE-A266-4C6C-B983-C7FADC46AE61}|laba8.csproj|D:\\University\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u041D\u0435\u043C\u043A\u043E\u0432\u0438\u0447 (2)\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\laba8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{072223FE-A266-4C6C-B983-C7FADC46AE61}|laba8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\University\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u041D\u0435\u043C\u043A\u043E\u0432\u0438\u0447 (2)\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\laba8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\University\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u041D\u0435\u043C\u043A\u043E\u0432\u0438\u0447 (2)\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\laba8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAewFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:48:14.208Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\University\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u041D\u0435\u043C\u043A\u043E\u0432\u0438\u0447 (2)\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\laba8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\University\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u041D\u0435\u043C\u043A\u043E\u0432\u0438\u0447 (2)\\\u0423\u043D\u0438\u043A\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u044B\\laba8\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T07:36:12.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

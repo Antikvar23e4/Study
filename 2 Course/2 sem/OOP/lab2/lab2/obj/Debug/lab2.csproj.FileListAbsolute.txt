@@ -1,0 +1,15 @@
+D:\Уник\ООП\Лабы\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Уник\ООП\Лабы\lab2\lab2\bin\Debug\lab2.exe
+D:\Уник\ООП\Лабы\lab2\lab2\bin\Debug\lab2.pdb
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.exe
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.pdb
+D:\Уник\ООП\Лабы\lab2\lab2\bin\Debug\AxInterop.WMPLib.dll
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\Interop.WMPLib.dll
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\AxInterop.WMPLib.dll
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.csproj.ResolveComReference.cache
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.Form2.resources
+D:\Уник\ООП\Лабы\lab2\lab2\obj\Debug\lab2.Library.resources

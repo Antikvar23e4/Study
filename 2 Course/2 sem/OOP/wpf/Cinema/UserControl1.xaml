@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="Cinema.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Cinema"
+             mc:Ignorable="d" 
+             Background="#AEB9A4" d:DesignWidth="200" Height="194">
+    <UserControl.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="120"/>
+            <Setter Property="Background" Value="#303030"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Bahnschrift"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0,10,0,10"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+
+        <Storyboard x:Key="FadeInOutAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:1" />
+        </Storyboard>
+    </UserControl.Resources>
+
+    <UserControl.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource FadeInOutAnimation}" />
+        </EventTrigger>
+    </UserControl.Triggers>
+
+    <Grid Margin="0,0,0,10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="{DynamicResource Review1}" Margin="5" Grid.Row="0" Foreground="White"/>
+        <StackPanel VerticalAlignment="Center" Orientation="Horizontal" Grid.Row="0" Grid.Column="1" >
+        </StackPanel>
+        <TextBox Height="30" Grid.ColumnSpan="2" MaxLength="30" x:Name="RateTextBox" Grid.Row="1"/>
+
+        <TextBlock Text="{DynamicResource Review2}" Grid.Row="2" Margin="5" Foreground="White"/>
+        <StackPanel VerticalAlignment="Center" Orientation="Horizontal" Grid.Row="2" Grid.Column="1">
+            <TextBlock Text="{Binding ElementName=DiscriptionTextBox, Path=Text.Length}"/>
+            <TextBlock Text="/" />
+            <TextBlock Text="300" />
+        </StackPanel>
+
+        <TextBox Height="60" Grid.ColumnSpan="2" MaxLength="300" x:Name="DiscriptionTextBox" Grid.Row="3" TextWrapping="Wrap"/>
+
+        <Button Content="{DynamicResource Review3}" Grid.Row="4" Grid.ColumnSpan="2" Click="SendButton_Click" Style="{StaticResource ButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    </Grid>
+</UserControl>

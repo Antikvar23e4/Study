@@ -1,0 +1,14 @@
+D:\Уник\ООП\Лабы\lab11\bin\Debug\Database1.mdf
+D:\Уник\ООП\Лабы\lab11\bin\Debug\Database1_log.ldf
+D:\Уник\ООП\Лабы\lab11\bin\Debug\lab11.exe.config
+D:\Уник\ООП\Лабы\lab11\bin\Debug\lab11.exe
+D:\Уник\ООП\Лабы\lab11\bin\Debug\lab11.pdb
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+D:\Уник\ООП\Лабы\lab11\obj\Debug\App.g.cs
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11_Content.g.cs
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11_MarkupCompile.cache
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11.Properties.Resources.resources
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11.exe
+D:\Уник\ООП\Лабы\lab11\obj\Debug\lab11.pdb
