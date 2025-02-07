@@ -1,0 +1,6 @@
+﻿  lab9.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\9\lab_9\lab_9\lab9.cpp(20,52): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\9\lab_9\lab_9\lab9.cpp(42,12): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\9\lab_9\lab_9\lab9.cpp(44,12): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\9\lab_9\lab_9\lab9.cpp(49,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab_9.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\оаип\9\lab_9\x64\Debug\lab_9.exe

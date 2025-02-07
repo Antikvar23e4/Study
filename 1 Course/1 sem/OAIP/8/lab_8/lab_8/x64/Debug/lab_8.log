@@ -1,0 +1,6 @@
+﻿  lab_8.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab_8\lab_8\lab_8.cpp(9,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab_8\lab_8\lab_8.cpp(15,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab_8\lab_8\lab_8.cpp(22,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab_8\lab_8\lab_8.cpp(25,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab_8.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab_8\x64\Debug\lab_8.exe

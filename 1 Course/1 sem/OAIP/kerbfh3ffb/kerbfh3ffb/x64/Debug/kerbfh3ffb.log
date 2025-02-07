@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\kerbfh3ffb\kerbfh3ffb\Source.cpp(10,43): warning C4101: width: неиспользованная локальная переменная
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" завершилась с кодом 1168.
-LINK : fatal error LNK1168: не удается открыть C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\kerbfh3ffb\x64\Debug\kerbfh3ffb.exe для записи

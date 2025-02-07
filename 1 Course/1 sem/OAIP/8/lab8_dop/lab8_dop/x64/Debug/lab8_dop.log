@@ -1,0 +1,5 @@
+﻿  dop8.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab8_dop\lab8_dop\dop8.cpp(63,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab8_dop\lab8_dop\dop8.cpp(66,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab8_dop\lab8_dop\dop8.cpp(70,9): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  lab8_dop.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\оаип\8\lab8_dop\x64\Debug\lab8_dop.exe

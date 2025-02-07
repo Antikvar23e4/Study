@@ -1,0 +1,5 @@
+﻿  lab11.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\11\lab11\lab11\lab11.cpp(83,10): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\11\lab11\lab11\lab11.cpp(109,15): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\11\lab11\lab11\lab11.cpp(125,15): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  lab11.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\оаип\11\lab11\x64\Debug\lab11.exe

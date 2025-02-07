@@ -1,0 +1,5 @@
+﻿  131.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\4\13\13\131.cpp(110,12): warning C4305: *=: усечение из "double" в "float"
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\4\13\13\131.cpp(208,18): warning C4101: m2: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\4\13\13\131.cpp(208,14): warning C4101: m1: неиспользованная локальная переменная
+LINK : fatal error LNK1168: не удается открыть C:\Users\Admin\Desktop\Уник\мои лабы\оаип\4\13\x64\Debug\13.exe для записи

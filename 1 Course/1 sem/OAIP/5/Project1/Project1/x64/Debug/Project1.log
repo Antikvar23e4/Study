@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\5\Project1\Project1\Source.cpp(11,4): error C2065: cout: необъявленный идентификатор
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\5\Project1\Project1\Source.cpp(12,4): error C2065: cin: необъявленный идентификатор
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\5\Project1\Project1\Source.cpp(17,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\5\Project1\Project1\Source.cpp(17,18): error C2065: endl: необъявленный идентификатор
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\5\Project1\Project1\Source.cpp(17,31): error C2065: endl: необъявленный идентификатор

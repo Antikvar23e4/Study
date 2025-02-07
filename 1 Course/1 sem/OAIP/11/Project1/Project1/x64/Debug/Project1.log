@@ -1,0 +1,5 @@
+﻿  Source12.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\11\Project1\Project1\Source12.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\11\Project1\Project1\Source12.cpp(55,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\11\Project1\Project1\Source12.cpp(16,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\11\Project1\Project1\Source12.cpp(17,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
