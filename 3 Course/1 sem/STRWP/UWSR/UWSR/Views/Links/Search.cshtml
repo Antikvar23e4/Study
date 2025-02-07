@@ -1,0 +1,33 @@
+﻿@model IEnumerable<UWSR.Models.Link>
+
+<h2>Search Results</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>URL</th>
+            <th>Description</th>
+            <th>Keywords</th>
+            <th>Useful Count</th>
+            <th>Useless Count</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var link in Model)
+        {
+            <tr>
+                <td><a href="@link.Url" target="_blank">@link.Url</a></td>
+                <td>@link.Description</td>
+                <td>@link.Keywords</td>
+                <td>@link.UsefulCount</td>
+                <td>@link.UselessCount</td>
+                <td>
+                    <a href="@Url.Action("IncrementUseful", "Links", new { id = link.Id })" class="btn btn-success">Useful (+)</a>
+                    <a href="@Url.Action("IncrementUseless", "Links", new { id = link.Id })" class="btn btn-warning">Useless (-)</a>
+                    <a href="@Url.Action("Index", "Comments", new { linkId = link.Id })" class="btn btn-info">View Comments</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

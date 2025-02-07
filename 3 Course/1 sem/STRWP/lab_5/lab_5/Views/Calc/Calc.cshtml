@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+    float? x = ViewBag.x;
+    float? y = ViewBag.y;
+    string press = (string)ViewBag.Press;
+    string result = Convert.ToString(ViewBag.Result ?? "null");
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Calc</title>
+</head>
+<body>
+    @await Html.PartialAsync("_CalcLink") 
+
+    @if (!string.IsNullOrWhiteSpace(press)) 
+    {
+        @using (Html.BeginRouteForm((press, "Calc", FormMethod.Post))) //создает форму, котор отправляет POST-запрос на маршрут Calc с указанием нажатой операции
+        {
+            <p>
+                @await Html.PartialAsync("_Calc") 
+                <input type="text" disabled value="@result" placeholder="Результат" />
+                <input type="submit" name="press" value="@press" />
+            </p>
+            <p>
+                @(ViewBag.Error as string) 
+            </p>
+        }
+    }
+</body>
+</html>

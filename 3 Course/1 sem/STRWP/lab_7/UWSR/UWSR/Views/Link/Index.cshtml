@@ -1,0 +1,65 @@
+﻿@model IEnumerable<UWSR.Models.Link>
+
+@{
+    ViewData["Title"] = "Полезные ссылки";
+}
+
+@{
+    var mode = Context.Session.GetString("Mode") ?? "Guest"; 
+}
+
+<p>Текущий режим: <strong>@mode</strong></p>
+<a href="@Url.Action("ToggleMode", "Link")" class="btn btn-secondary">
+    Переключить режим
+</a>
+
+<div class="container">
+    <h1>@ViewData["Title"]</h1>
+
+    <form asp-controller="Link" asp-action="Index" method="get">
+        <div class="form-group">
+            <input type="text" name="search" class="form-control" placeholder="Поиск по ключевым словам..." value="@Context.Request.Query["search"]" />
+        </div>
+        <button type="submit" class="btn btn-primary">Поиск</button>
+    </form>
+
+    <br />
+
+    @if (mode == "Owner")
+    {
+        <a href="@Url.Action("Create", "Link")" class="btn btn-success">Добавить ссылку</a>
+    }
+
+    <br /><br />
+
+    <div class="list-group">
+        @foreach (var link in Model)
+        {
+            <div class="list-group-item">
+                <h5>@link.Url</h5>
+                <p>@link.Description</p>
+                <p>Полезность: @link.Plus | Бесполезность: @link.Minus</p>
+
+
+                @if (mode == "Owner")
+                {
+                    <a href="@Url.Action("Edit", "Link", new { id = link.Id })" class="btn btn-warning">Изменить</a>
+                    <form asp-action="Delete" asp-route-id="@link.Id" method="post" class="d-inline-block">
+                        <button type="submit" class="btn btn-danger">Удалить</button>
+                    </form>
+
+
+                    <form asp-action="IncreasePlus" asp-route-id="@link.Id" method="post" class="d-inline-block">
+                        <button type="submit" class="btn btn-success btn-sm">Увеличить полезность</button>
+                    </form>
+
+                    <form asp-action="IncreaseMinus" asp-route-id="@link.Id" method="post" class="d-inline-block">
+                        <button type="submit" class="btn btn-danger btn-sm">Увеличить бесполезность</button>
+                    </form>
+                }
+
+                <a href="@Url.Action("Comments", "Link", new { linkId = link.Id })" class="btn btn-info">Комментарии</a>
+            </div>
+        }
+    </div>
+</div>

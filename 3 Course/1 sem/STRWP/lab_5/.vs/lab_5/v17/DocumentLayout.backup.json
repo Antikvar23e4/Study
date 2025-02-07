@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_5\\lab_5\\views\\calc\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\views\\calc\\_calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_5\\lab_5\\views\\calc\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\views\\calc\\calc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_5\\lab_5\\controllers\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\controllers\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_5\\lab_5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_5\\lab_5\\views\\calc\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\views\\calc\\_calclink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_5\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92CC8FE-86E8-4BD4-8DB4-F6343BDFB5BA}|lab_5\\lab_5.csproj|solutionrelative:lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab_5\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab_5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:12:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Calc.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Views\\Calc\\_Calc.cshtml",
+              "RelativeDocumentMoniker": "lab_5\\Views\\Calc\\_Calc.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Views\\Calc\\_Calc.cshtml",
+              "RelativeToolTip": "lab_5\\Views\\Calc\\_Calc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T19:02:13.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_CalcLink.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Views\\Calc\\_CalcLink.cshtml",
+              "RelativeDocumentMoniker": "lab_5\\Views\\Calc\\_CalcLink.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Views\\Calc\\_CalcLink.cshtml",
+              "RelativeToolTip": "lab_5\\Views\\Calc\\_CalcLink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T18:56:30.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calc.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Views\\Calc\\Calc.cshtml",
+              "RelativeDocumentMoniker": "lab_5\\Views\\Calc\\Calc.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Views\\Calc\\Calc.cshtml",
+              "RelativeToolTip": "lab_5\\Views\\Calc\\Calc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T18:41:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Controllers\\Calc.cs",
+              "RelativeDocumentMoniker": "lab_5\\Controllers\\Calc.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Controllers\\Calc.cs",
+              "RelativeToolTip": "lab_5\\Controllers\\Calc.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:39:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Program.cs",
+              "RelativeDocumentMoniker": "lab_5\\Program.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_5\\lab_5\\Program.cs",
+              "RelativeToolTip": "lab_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:38:50.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

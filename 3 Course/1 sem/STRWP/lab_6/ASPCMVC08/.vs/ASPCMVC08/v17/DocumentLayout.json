@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Data\\Migrations\\20241212122642_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPCMVC08\\Data\\Migrations\\20241212122642_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_6\\aspcmvc08\\aspcmvc08\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_6\\aspcmvc08\\aspcmvc08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_6\\aspcmvc08\\aspcmvc08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_6\\aspcmvc08\\aspcmvc08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC02708A-93DE-4140-ADF7-1252140BBBC7}|ASPCMVC08\\ASPCMVC08.csproj|solutionrelative:aspcmvc08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 709,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241212122642_InitialCreate.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Data\\Migrations\\20241212122642_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Data\\Migrations\\20241212122642_InitialCreate.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Data\\Migrations\\20241212122642_InitialCreate.cs",
+              "RelativeToolTip": "ASPCMVC08\\Data\\Migrations\\20241212122642_InitialCreate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:26:42.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCMVC08\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:23:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Program.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Program.cs",
+              "RelativeToolTip": "ASPCMVC08\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:21:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ASPCMVC08\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ASPCMVC08\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:20:57.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCMVC08\\appsettings.json",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_6\\ASPCMVC08\\ASPCMVC08\\appsettings.json",
+              "RelativeToolTip": "ASPCMVC08\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T12:13:00.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 40,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

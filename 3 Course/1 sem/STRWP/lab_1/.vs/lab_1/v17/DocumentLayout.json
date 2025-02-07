@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B3140D-C36A-40A6-B9E2-CB96328108EB}|lab_1\\lab_1.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_1\\lab_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B3140D-C36A-40A6-B9E2-CB96328108EB}|lab_1\\lab_1.csproj|solutionrelative:lab_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B3140D-C36A-40A6-B9E2-CB96328108EB}|lab_1\\lab_1.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_1\\lab_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4B3140D-C36A-40A6-B9E2-CB96328108EB}|lab_1\\lab_1.csproj|solutionrelative:lab_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_1\\lab_1\\appsettings.json",
+              "RelativeDocumentMoniker": "lab_1\\appsettings.json",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_1\\lab_1\\appsettings.json",
+              "RelativeToolTip": "lab_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T16:41:18.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_1\\lab_1\\Program.cs",
+              "RelativeDocumentMoniker": "lab_1\\Program.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_1\\lab_1\\Program.cs",
+              "RelativeToolTip": "lab_1\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:14:18.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

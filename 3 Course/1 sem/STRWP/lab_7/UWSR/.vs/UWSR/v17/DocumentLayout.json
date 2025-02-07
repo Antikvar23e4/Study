@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\views\\link\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\views\\link\\comments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\views\\link\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\views\\link\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\views\\link\\editcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\views\\link\\editcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\views\\link\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\views\\link\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\views\\link\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\views\\link\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\models\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\models\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\models\\linkcommentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\models\\linkcommentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\models\\linkindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\models\\linkindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\migrations\\20241212194802_initialcreatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\migrations\\20241212194802_initialcreatev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_7\\uwsr\\uwsr\\migrations\\20241215112700_addmodetocomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CBBCE7-C467-42B8-B731-6BD5CFCDA9A5}|UWSR\\UWSR.csproj|solutionrelative:uwsr\\migrations\\20241215112700_addmodetocomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Security.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Security.cs",
+              "RelativeDocumentMoniker": "UWSR\\Security.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Security.cs",
+              "RelativeToolTip": "UWSR\\Security.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:46:00.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinksController.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Controllers\\LinksController.cs",
+              "RelativeDocumentMoniker": "UWSR\\Controllers\\LinksController.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Controllers\\LinksController.cs",
+              "RelativeToolTip": "UWSR\\Controllers\\LinksController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:28:28.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "UWSR\\Models\\Comment.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\Comment.cs",
+              "RelativeToolTip": "UWSR\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:46:56.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Index.cshtml",
+              "RelativeDocumentMoniker": "UWSR\\Views\\Link\\Index.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Index.cshtml",
+              "RelativeToolTip": "UWSR\\Views\\Link\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T18:56:56.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Create.cshtml",
+              "RelativeDocumentMoniker": "UWSR\\Views\\Link\\Create.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Create.cshtml",
+              "RelativeToolTip": "UWSR\\Views\\Link\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:00:35.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UWSR\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UWSR\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:10:17.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UWSR\\Views\\Link\\Edit.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Edit.cshtml",
+              "RelativeToolTip": "UWSR\\Views\\Link\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:00:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Program.cs",
+              "RelativeDocumentMoniker": "UWSR\\Program.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Program.cs",
+              "RelativeToolTip": "UWSR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:09:16.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241215112700_AddModeToComment.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Migrations\\20241215112700_AddModeToComment.cs",
+              "RelativeDocumentMoniker": "UWSR\\Migrations\\20241215112700_AddModeToComment.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Migrations\\20241215112700_AddModeToComment.cs",
+              "RelativeToolTip": "UWSR\\Migrations\\20241215112700_AddModeToComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:27:01.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "UWSR\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "UWSR\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:11:55.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comments.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Comments.cshtml",
+              "RelativeDocumentMoniker": "UWSR\\Views\\Link\\Comments.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\Comments.cshtml",
+              "RelativeToolTip": "UWSR\\Views\\Link\\Comments.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:01:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditComment.cshtml",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\EditComment.cshtml",
+              "RelativeDocumentMoniker": "UWSR\\Views\\Link\\EditComment.cshtml",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Views\\Link\\EditComment.cshtml",
+              "RelativeToolTip": "UWSR\\Views\\Link\\EditComment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:04:11.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UWSR\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UWSR\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:54:38.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LinkCommentsViewModel.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\LinkCommentsViewModel.cs",
+              "RelativeDocumentMoniker": "UWSR\\Models\\LinkCommentsViewModel.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\LinkCommentsViewModel.cs",
+              "RelativeToolTip": "UWSR\\Models\\LinkCommentsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:03:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LinkIndexViewModel.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\LinkIndexViewModel.cs",
+              "RelativeDocumentMoniker": "UWSR\\Models\\LinkIndexViewModel.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\LinkIndexViewModel.cs",
+              "RelativeToolTip": "UWSR\\Models\\LinkIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:58:40.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Link.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\Link.cs",
+              "RelativeDocumentMoniker": "UWSR\\Models\\Link.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Models\\Link.cs",
+              "RelativeToolTip": "UWSR\\Models\\Link.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:11:26.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\appsettings.json",
+              "RelativeDocumentMoniker": "UWSR\\appsettings.json",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\appsettings.json",
+              "RelativeToolTip": "UWSR\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T18:08:54.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241212194802_InitialCreateV2.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Migrations\\20241212194802_InitialCreateV2.cs",
+              "RelativeDocumentMoniker": "UWSR\\Migrations\\20241212194802_InitialCreateV2.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_7\\UWSR\\UWSR\\Migrations\\20241212194802_InitialCreateV2.cs",
+              "RelativeToolTip": "UWSR\\Migrations\\20241212194802_InitialCreateV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:48:03.079Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

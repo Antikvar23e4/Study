@@ -1,0 +1,44 @@
+﻿@model IEnumerable<UWSR.Models.Comment>
+
+@{
+    ViewData["Title"] = "Комментарии";
+    var linkId = (int)ViewData["LinkId"];
+}
+@{
+    var mode = Context.Session.GetString("Mode");
+}
+
+<div class="container">
+    <h2>@ViewData["Title"]</h2>
+
+
+    <form method="post" action="@Url.Action("AddComment", "Link")">
+        @Html.AntiForgeryToken()
+        <input type="hidden" name="linkId" value="@linkId" />
+        <div class="form-group">
+            <textarea class="form-control" name="Text" rows="3" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Добавить комментарий</button>
+    </form>
+
+    <ul class="list-group mt-3">
+        @foreach (var comment in Model)
+        {
+            <li class="list-group-item">
+                <strong>@comment.Stamp.ToString("g")</strong>: @comment.Text
+                @if (Security.CheckIsCommentUser(Context, comment))
+                {
+                    <a href="@Url.Action("EditComment", "Link", new { commentId = comment.Id })" class="btn btn-warning btn-sm ml-2">Редактировать</a>
+
+                    <form asp-action="DeleteComment" asp-route-commentId="@comment.Id" method="post" class="d-inline-block">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-danger btn-sm ml-2">Удалить</button>
+                    </form>
+                }
+
+            </li>
+        }
+    </ul>
+
+    <a href="@Url.Action("Index", "Link")" class="btn btn-secondary mt-3">Назад к ссылкам</a>
+</div>

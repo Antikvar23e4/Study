@@ -1,0 +1,20 @@
+﻿@model UWSR.Models.Comment
+
+<h2>Редактирование комментария</h2>
+
+@if (Model == null)
+{
+    <div class="alert alert-danger">
+        <strong>Ошибка:</strong> Комментарий не найден.
+    </div>
+}
+else
+{
+    <form method="post" action="@Url.Action("EditComment", new { commentId = Model.Id })">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <textarea class="form-control" name="Text" rows="3" required>@Model.Text</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Сохранить изменения</button>
+    </form>
+}

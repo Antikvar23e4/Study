@@ -1,0 +1,32 @@
+@hostname=localhost
+@port=7006
+
+GET https://{{hostname}}:{{port}}/MResearch/M01/1
+###
+GET https://{{hostname}}:{{port}}/MResearch/M01
+###
+GET https://{{hostname}}:{{port}}/MResearch
+###
+GET https://{{hostname}}:{{port}}/
+###
+GET https://{{hostname}}:{{port}}/V2/MResearch/M01
+###
+GET https://{{hostname}}:{{port}}/V3/MResearch/stringexample123/M01
+###
+GET https://{{hostname}}:{{port}}/V2
+###
+GET https://{{hostname}}:{{port}}/V2/MResearch
+###
+GET https://{{hostname}}:{{port}}/V2/MResearch/M02
+###
+GET https://{{hostname}}:{{port}}/MResearch/M02
+###
+GET https://{{hostname}}:{{port}}/V3/MResearch/stringexample123/M02
+###
+GET https://{{hostname}}:{{port}}/V3
+###
+GET https://{{hostname}}:{{port}}/V3/MResearch/stringexample123
+###
+GET https://{{hostname}}:{{port}}/V3/MResearch/string/M03
+###
+GET https://{{hostname}}:{{port}}/example/example

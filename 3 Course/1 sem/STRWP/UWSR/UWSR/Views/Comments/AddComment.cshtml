@@ -1,0 +1,12 @@
+﻿@model UWSR.Models.Comment
+
+<h2>Add Comment</h2>
+
+<form asp-action="AddComment">
+    <div>
+        <label for="Text">Comment</label>
+        <textarea id="Text" name="Text" rows="4" cols="50" required></textarea>
+    </div>
+    <input type="hidden" name="LinkId" value="@Model.LinkId" />
+    <button type="submit">Submit</button>
+</form>

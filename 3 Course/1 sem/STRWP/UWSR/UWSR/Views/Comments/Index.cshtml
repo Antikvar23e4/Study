@@ -1,0 +1,39 @@
+﻿@model IEnumerable<UWSR.Models.Comment>
+
+@{
+    var userMode = ViewData["UserMode"] as string;
+    var linkId = (int)ViewData["LinkId"];  // Получаем linkId из ViewData
+}
+
+<h2>Comments</h2>
+
+@if (userMode == "Owner")
+{
+    <form asp-action="AddComment" method="post">
+        <textarea name="commentText" required></textarea>
+        <button type="submit">Add Comment</button>
+    </form>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Comment</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var comment in Model)
+        {
+            <tr>
+                <td>@comment.Text</td>
+                <td>
+                    @if (userMode == "Owner" || comment.CreatedAt == userMode) // Модератор может удалять все комментарии, гость только свои
+                    {
+                        <a href="@Url.Action("Delete", "Comments", new { id = comment.Id })">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B4258-B671-49F4-9A26-827EEA15E80B}|ASPCMVC07\\ASPCMVC07.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_4\\aspcmvc06\\aspcmvc07\\wwwroot\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C65B4258-B671-49F4-9A26-827EEA15E80B}|ASPCMVC07\\ASPCMVC07.csproj|solutionrelative:aspcmvc07\\wwwroot\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B4258-B671-49F4-9A26-827EEA15E80B}|ASPCMVC07\\ASPCMVC07.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_4\\aspcmvc06\\aspcmvc07\\controllers\\taresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B4258-B671-49F4-9A26-827EEA15E80B}|ASPCMVC07\\ASPCMVC07.csproj|solutionrelative:aspcmvc07\\controllers\\taresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_4\\aspcmvc06\\aspcmvc06\\wwwroot\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|solutionrelative:aspcmvc06\\wwwroot\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_4\\aspcmvc06\\aspcmvc06\\myroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|solutionrelative:aspcmvc06\\myroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_4\\aspcmvc06\\aspcmvc06\\controllers\\tmresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|solutionrelative:aspcmvc06\\controllers\\tmresearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_4\\aspcmvc06\\aspcmvc06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1572601C-272A-4D13-9266-765F7E6D7E10}|ASPCMVC06\\ASPCMVC06.csproj|solutionrelative:aspcmvc06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B4258-B671-49F4-9A26-827EEA15E80B}|ASPCMVC07\\ASPCMVC07.csproj|d:\\university\\1sem\\\u0441\u0442\u0440\u043F\\lab_4\\aspcmvc06\\aspcmvc07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B4258-B671-49F4-9A26-827EEA15E80B}|ASPCMVC07\\ASPCMVC07.csproj|solutionrelative:aspcmvc07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.http",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\wwwroot\\app.http",
+              "RelativeDocumentMoniker": "ASPCMVC06\\wwwroot\\app.http",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\wwwroot\\app.http",
+              "RelativeToolTip": "ASPCMVC06\\wwwroot\\app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-04T08:31:57.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC07\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC07\\Program.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC07\\Program.cs",
+              "RelativeToolTip": "ASPCMVC07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:41:05.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.http",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC07\\wwwroot\\app.http",
+              "RelativeDocumentMoniker": "ASPCMVC07\\wwwroot\\app.http",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC07\\wwwroot\\app.http",
+              "RelativeToolTip": "ASPCMVC07\\wwwroot\\app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-02T18:28:16.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TAResearch.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC07\\Controllers\\TAResearch.cs",
+              "RelativeDocumentMoniker": "ASPCMVC07\\Controllers\\TAResearch.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC07\\Controllers\\TAResearch.cs",
+              "RelativeToolTip": "ASPCMVC07\\Controllers\\TAResearch.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:02:28.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyRoutes.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\MyRoutes.cs",
+              "RelativeDocumentMoniker": "ASPCMVC06\\MyRoutes.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\MyRoutes.cs",
+              "RelativeToolTip": "ASPCMVC06\\MyRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:45:29.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCMVC06\\Program.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\Program.cs",
+              "RelativeToolTip": "ASPCMVC06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:38:00.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TMResearch.cs",
+              "DocumentMoniker": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\Controllers\\TMResearch.cs",
+              "RelativeDocumentMoniker": "ASPCMVC06\\Controllers\\TMResearch.cs",
+              "ToolTip": "D:\\University\\1sem\\\u0421\u0422\u0420\u041F\\lab_4\\ASPCMVC06\\ASPCMVC06\\Controllers\\TMResearch.cs",
+              "RelativeToolTip": "ASPCMVC06\\Controllers\\TMResearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:31:51.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

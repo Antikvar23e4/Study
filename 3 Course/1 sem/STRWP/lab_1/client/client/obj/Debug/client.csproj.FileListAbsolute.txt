@@ -1,0 +1,10 @@
+D:\University\1sem\СТРП\lab_1\client\client\bin\Debug\client.exe.config
+D:\University\1sem\СТРП\lab_1\client\client\bin\Debug\client.exe
+D:\University\1sem\СТРП\lab_1\client\client\bin\Debug\client.pdb
+D:\University\1sem\СТРП\lab_1\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\University\1sem\СТРП\lab_1\client\client\obj\Debug\client.Form1.resources
+D:\University\1sem\СТРП\lab_1\client\client\obj\Debug\client.Properties.Resources.resources
+D:\University\1sem\СТРП\lab_1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\University\1sem\СТРП\lab_1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\University\1sem\СТРП\lab_1\client\client\obj\Debug\client.exe
+D:\University\1sem\СТРП\lab_1\client\client\obj\Debug\client.pdb

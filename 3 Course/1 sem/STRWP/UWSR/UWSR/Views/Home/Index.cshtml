@@ -1,0 +1,18 @@
+﻿@{
+    var userMode = ViewData["UserMode"] as string;
+}
+
+<h2>Welcome to the Link Management System</h2>
+
+@if (userMode == "Owner")
+{
+    <p>You are in Owner mode</p>
+    <a href="@Url.Action("SwitchMode", "Home", new { mode = "Guest" })" class="btn btn-warning">Switch to Guest Mode</a>
+}
+else
+{
+    <p>You are in Guest mode</p>
+    <a href="@Url.Action("SwitchMode", "Home", new { mode = "Owner" })" class="btn btn-warning">Switch to Owner Mode</a>
+}
+<a href="@Url.Action("Index", "Links")">Перейти на страницу ссылок</a>
+<a href="@Url.Action("Index", "Comments")">Перейти на страницу ссылок</a>

@@ -1,0 +1,19 @@
+﻿@model UWSR.Models.Link
+
+<h2>Edit Link</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Url">URL</label>
+        <input type="text" class="form-control" id="Url" name="Url" value="@Model.Url" required />
+    </div>
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <input type="text" class="form-control" id="Description" name="Description" value="@Model.Description" required />
+    </div>
+    <div class="form-group">
+        <label for="Keywords">Keywords</label>
+        <input type="text" class="form-control" id="Keywords" name="Keywords" value="@Model.Keywords" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

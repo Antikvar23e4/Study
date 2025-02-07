@@ -1,0 +1,11 @@
+﻿@model UWSR.Models.Comment
+
+<h2>Edit Comment</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Text">Comment</label>
+        <textarea class="form-control" id="Text" name="Text" rows="3" required>@Model.Text</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

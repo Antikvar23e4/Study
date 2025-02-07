@@ -1,0 +1,17 @@
+@hostname=localhost
+@port=7126
+
+GET https://localhost:7126/it/5,6/helï
+
+###
+GET https://localhost:7126/it/true/abc
+###
+POST https://localhost:7126/it/false/xyz
+###
+GET https://localhost:7126/it/10.5/test
+###
+DELETE https://localhost:7126/it/20.0/abc
+###
+PUT https://localhost:7126/it/abcd/219
+###
+POST https://localhost:7126/it/test@example.com

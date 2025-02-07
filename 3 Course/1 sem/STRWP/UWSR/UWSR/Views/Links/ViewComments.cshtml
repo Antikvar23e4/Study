@@ -1,0 +1,33 @@
+﻿@model IEnumerable<UWSR.Models.Comment>
+
+<h2>Comments</h2>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <a href="@Url.Action("AddComment", "Comments", new { linkId = ViewData["LinkId"] })">Add Comment</a>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Comment</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var comment in Model)
+        {
+            <tr>
+                <td>@comment.Text</td>
+                <td>
+                    @if (comment.UserId == User.Identity.Name || User.IsInRole("Owner"))
+                    {
+                        <a href="@Url.Action("Edit", "Comments", new { id = comment.Id })">Edit</a>
+ |
+                    < a href = "@Url.Action("Delete", "Comments", new { id = comment.Id })" > Delete </ a >
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

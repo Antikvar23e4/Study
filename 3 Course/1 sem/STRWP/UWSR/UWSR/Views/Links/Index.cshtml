@@ -1,0 +1,46 @@
+﻿@model IEnumerable<UWSR.Models.Link>
+
+@{
+    var userMode = ViewData["UserMode"] as string;
+}
+
+<h2>Links</h2>
+
+@if (userMode == "Owner")
+{
+    <a href="@Url.Action("Create", "Links")">Add New Link</a>
+}
+
+<form method="get">
+    <input type="text" name="keyword" placeholder="Search by keyword" />
+    <button type="submit">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>URL</th>
+            <th>Description</th>
+            <th>Keywords</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var link in Model)
+        {
+            <tr>
+                <td>@link.Url</td>
+                <td>@link.Description</td>
+                <td>@link.Keywords</td>
+                <td>
+                    @if (userMode == "Owner")
+                    {
+                        <a href="@Url.Action("Edit", "Links", new { id = link.Id })">Edit</a>
+                        <a href = "@Url.Action("Delete", "Links", new { id = link.Id })" > Delete </a> 
+                    }
+                    <a href="@Url.Action("ViewComments", "Links", new { linkId = link.Id })">View Comments</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

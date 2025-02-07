@@ -1,0 +1,27 @@
+﻿@model UWSR.Models.Link
+
+<h2>Редактировать ссылку</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Url">URL</label>
+        <input type="text" class="form-control" id="Url" name="Url" value="@Model.Url" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Описание</label>
+        <input type="text" class="form-control" id="Description" name="Description" value="@Model.Description" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Plus">Полезность</label>
+        <input type="number" class="form-control" id="Plus" name="Plus" value="@Model.Plus" readonly />
+    </div>
+
+    <div class="form-group">
+        <label for="Minus">Бесполезность</label>
+        <input type="number" class="form-control" id="Minus" name="Minus" value="@Model.Minus" readonly />
+    </div>
+
+    <button type="submit" class="btn btn-warning mt-3">Сохранить изменения</button>
+</form>
