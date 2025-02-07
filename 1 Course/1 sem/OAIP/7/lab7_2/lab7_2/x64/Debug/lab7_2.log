@@ -1,0 +1,4 @@
+﻿  7_2.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\7\lab7_2\lab7_2\7_2.cpp(8,37): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\Desktop\Уник\мои лабы\оаип\7\lab7_2\lab7_2\7_2.cpp(14,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab7_2.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\оаип\7\lab7_2\x64\Debug\lab7_2.exe

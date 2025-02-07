@@ -1,0 +1,5 @@
+﻿  lab12.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\12\lab12\lab12\lab12.cpp(88,14): warning C4101: min: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\12\lab12\lab12\lab12.cpp(234,41): warning C4101: min: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\12\lab12\lab12\lab12.cpp(294,41): warning C4101: min: неиспользованная локальная переменная
+  lab12.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\ОАИП\12\lab12\x64\Debug\lab12.exe
