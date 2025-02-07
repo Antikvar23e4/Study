@@ -1,0 +1,14 @@
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\Lec03LibN.AssemblyInfoInputs.cache
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\Lec03LibN.AssemblyInfo.cs
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\Lec03LibN.csproj.CoreCompileInputs.cache
+D:\Уник\ProgaPatterns\Lec03LibN\bin\Debug\net8.0\Lec03LibN.exe
+D:\Уник\ProgaPatterns\Lec03LibN\bin\Debug\net8.0\Lec03LibN.deps.json
+D:\Уник\ProgaPatterns\Lec03LibN\bin\Debug\net8.0\Lec03LibN.runtimeconfig.json
+D:\Уник\ProgaPatterns\Lec03LibN\bin\Debug\net8.0\Lec03LibN.dll
+D:\Уник\ProgaPatterns\Lec03LibN\bin\Debug\net8.0\Lec03LibN.pdb
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\Lec03LibN.dll
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\refint\Lec03LibN.dll
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\Lec03LibN.pdb
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\Lec03LibN.genruntimeconfig.cache
+D:\Уник\ProgaPatterns\Lec03LibN\obj\Debug\net8.0\ref\Lec03LibN.dll

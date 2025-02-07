@@ -1,0 +1,14 @@
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\Уник\ProgaPatterns\lab1\lab1\bin\Debug\net8.0\lab1.exe
+D:\Уник\ProgaPatterns\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\Уник\ProgaPatterns\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\Уник\ProgaPatterns\lab1\lab1\bin\Debug\net8.0\lab1.dll
+D:\Уник\ProgaPatterns\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\lab1.dll
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\Уник\ProgaPatterns\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll

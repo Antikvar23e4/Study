@@ -1,0 +1,14 @@
+D:\Уник\ProgaPatterns\lab6\bin\Debug\net8.0\lab6.exe
+D:\Уник\ProgaPatterns\lab6\bin\Debug\net8.0\lab6.deps.json
+D:\Уник\ProgaPatterns\lab6\bin\Debug\net8.0\lab6.runtimeconfig.json
+D:\Уник\ProgaPatterns\lab6\bin\Debug\net8.0\lab6.dll
+D:\Уник\ProgaPatterns\lab6\bin\Debug\net8.0\lab6.pdb
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\lab6.AssemblyInfoInputs.cache
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\lab6.AssemblyInfo.cs
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\lab6.csproj.CoreCompileInputs.cache
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\lab6.dll
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\refint\lab6.dll
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\lab6.pdb
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
+D:\Уник\ProgaPatterns\lab6\obj\Debug\net8.0\ref\lab6.dll

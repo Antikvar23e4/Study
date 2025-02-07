@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u043A\\ProgaPatterns\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859E07F3-16DF-4A08-B777-009A3BED6FF2}|lab6.csproj|d:\\\u0443\u043D\u0438\u043A\\progapatterns\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E07F3-16DF-4A08-B777-009A3BED6FF2}|lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E07F3-16DF-4A08-B777-009A3BED6FF2}|lab6.csproj|d:\\\u0443\u043D\u0438\u043A\\progapatterns\\lab6\\lab6lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E07F3-16DF-4A08-B777-009A3BED6FF2}|lab6.csproj|solutionrelative:lab6lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab6Lib.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\ProgaPatterns\\lab6\\Lab6Lib.cs",
+              "RelativeDocumentMoniker": "Lab6Lib.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\ProgaPatterns\\lab6\\Lab6Lib.cs",
+              "RelativeToolTip": "Lab6Lib.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:38:22.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\ProgaPatterns\\lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\ProgaPatterns\\lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:37:19.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
