@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041F\u0421\u041F\\ClientB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA5A6E5-319F-4FD0-9239-E32453E94544}|ClientB\\ClientB.vcxproj|D:\\University\\1sem\\\u041F\u0421\u041F\\ClientB\\ClientB\\ClientB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA5A6E5-319F-4FD0-9239-E32453E94544}|ClientB\\ClientB.vcxproj|solutionrelative:ClientB\\ClientB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientB.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041F\u0421\u041F\\ClientB\\ClientB\\ClientB.cpp",
+              "RelativeDocumentMoniker": "ClientB\\ClientB.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041F\u0421\u041F\\ClientB\\ClientB\\ClientB.cpp",
+              "RelativeToolTip": "ClientB\\ClientB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T07:47:26.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿  ClientMS.cpp
+D:\University\1sem\ПСП\ClientMS\ClientMS\ClientMS.cpp(79,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\University\1sem\ПСП\ClientMS\ClientMS\ClientMS.cpp(110,63): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\University\1sem\ПСП\ClientMS\ClientMS\ClientMS.cpp(88,8): warning C4101: bytesRead: неиспользованная локальная переменная
+D:\University\1sem\ПСП\ClientMS\ClientMS\ClientMS.cpp(83,8): warning C4101: wb: неиспользованная локальная переменная
+D:\University\1sem\ПСП\ClientMS\ClientMS\ClientMS.cpp(84,9): warning C4101: mailClient: неиспользованная локальная переменная
+D:\University\1sem\ПСП\ClientMS\ClientMS\ClientMS.cpp(87,7): warning C4101: buffer: неиспользованная локальная переменная
+  ClientMS.vcxproj -> D:\University\1sem\ПСП\ClientMS\x64\Debug\ClientMS.exe

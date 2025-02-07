@@ -1,0 +1,4 @@
+﻿  ClientNPсt.cpp
+D:\University\1sem\ПСП\ClientNPсt\ClientNPсt\ClientNPсt.cpp(29,58): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\University\1sem\ПСП\ClientNPсt\ClientNPсt\ClientNPсt.cpp(22,19): warning C4101: dwWritten: неиспользованная локальная переменная
+  ClientNPсt.vcxproj -> D:\University\1sem\ПСП\ClientNPсt\x64\Debug\ClientNPсt.exe

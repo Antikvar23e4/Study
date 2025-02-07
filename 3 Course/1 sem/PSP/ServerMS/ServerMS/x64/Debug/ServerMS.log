@@ -1,0 +1,7 @@
+﻿  ServerMS.cpp
+D:\University\1sem\ПСП\ServerMS\ServerMS\ServerMS.cpp(75,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\University\1sem\ПСП\ServerMS\ServerMS\ServerMS.cpp(83,17): warning C4101: end: неиспользованная локальная переменная
+D:\University\1sem\ПСП\ServerMS\ServerMS\ServerMS.cpp(83,10): warning C4101: start: неиспользованная локальная переменная
+D:\University\1sem\ПСП\ServerMS\ServerMS\ServerMS.cpp(82,19): warning C4101: bytesWritten: неиспользованная локальная переменная
+D:\University\1sem\ПСП\ServerMS\ServerMS\ServerMS.cpp(80,9): warning C4101: hClientSlot: неиспользованная локальная переменная
+  ServerMS.vcxproj -> D:\University\1sem\ПСП\ServerMS\x64\Debug\ServerMS.exe

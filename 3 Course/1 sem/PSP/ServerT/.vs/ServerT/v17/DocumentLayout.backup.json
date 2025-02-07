@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041F\u0421\u041F\\ServerT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A9F05-022F-4C28-A07B-AA496694B9EB}|ServerT\\ServerT.vcxproj|D:\\University\\1sem\\\u041F\u0421\u041F\\ServerT\\ServerT\\ServerT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83A9F05-022F-4C28-A07B-AA496694B9EB}|ServerT\\ServerT.vcxproj|solutionrelative:ServerT\\ServerT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerT.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041F\u0421\u041F\\ServerT\\ServerT\\ServerT.cpp",
+              "RelativeDocumentMoniker": "ServerT\\ServerT.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041F\u0421\u041F\\ServerT\\ServerT\\ServerT.cpp",
+              "RelativeToolTip": "ServerT\\ServerT.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T08:22:37.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
