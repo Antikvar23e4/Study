@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EchoServer.cpp
+D:\5sem_BSTU\PSP\lab8\ServiceLibrary\ServiceLibrary\EchoServer.cpp(12,9): warning C4101: recv_len: неиспользованная локальная переменная
+  (компиляция исходного файла "/EchoServer.cpp")
+  
+  RandServer.cpp
+D:\5sem_BSTU\PSP\lab8\ServiceLibrary\ServiceLibrary\RandServer.cpp(12,9): warning C4101: recv_len: неиспользованная локальная переменная
+  (компиляция исходного файла "/RandServer.cpp")
+  
+  TimeServer.cpp
+D:\5sem_BSTU\PSP\lab8\ServiceLibrary\ServiceLibrary\TimeServer.cpp(12,9): warning C4101: recv_len: неиспользованная локальная переменная
+  (компиляция исходного файла "/TimeServer.cpp")
+  
+  Создание кода...
+     Создается библиотека D:\5sem_BSTU\PSP\lab8\ServiceLibrary\x64\Debug\ServiceLibrary.lib и объект D:\5sem_BSTU\PSP\lab8\ServiceLibrary\x64\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> D:\5sem_BSTU\PSP\lab8\ServiceLibrary\x64\Debug\ServiceLibrary.dll

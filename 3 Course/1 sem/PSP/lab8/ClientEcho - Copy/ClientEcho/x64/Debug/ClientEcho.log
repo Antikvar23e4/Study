@@ -1,0 +1,5 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ClientEcho.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ClientEcho.cpp
+D:\University\1sem\ПСП\lab8\ClientEcho - Copy\ClientEcho\ClientEcho.cpp(50,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\University\1sem\ПСП\lab8\ClientEcho - Copy\ClientEcho\ClientEcho.cpp(135,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientEcho.vcxproj -> D:\University\1sem\ПСП\lab8\ClientEcho - Copy\x64\Debug\ClientEchoDNS.exe

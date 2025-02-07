@@ -1,0 +1,5 @@
+﻿  RConsole.cpp
+D:\University\1sem\ПСП\lab8\RConsole\RConsole\RConsole.cpp(93,87): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\University\1sem\ПСП\lab8\RConsole\RConsole\RConsole.cpp(105,75): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\University\1sem\ПСП\lab8\RConsole\RConsole\RConsole.cpp(121,79): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  RConsole.vcxproj -> D:\University\1sem\ПСП\lab8\RConsole\x64\Debug\RConsole.exe

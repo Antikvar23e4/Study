@@ -1,0 +1,3 @@
+﻿  ClientRand.cpp
+D:\University\1sem\ПСП\lab8\ClientRand\ClientRand\ClientRand.cpp(43,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientRand.vcxproj -> D:\University\1sem\ПСП\lab8\ClientRand\x64\Debug\ClientRand.exe

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientTy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED2A483-1952-4357-AD26-2DC44244248D}|ClientTy\\ClientTy.vcxproj|D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientTy\\ClientTy\\ClientTy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2ED2A483-1952-4357-AD26-2DC44244248D}|ClientTy\\ClientTy.vcxproj|solutionrelative:ClientTy\\ClientTy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientTy.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientTy\\ClientTy\\ClientTy.cpp",
+              "RelativeDocumentMoniker": "ClientTy\\ClientTy.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientTy\\ClientTy\\ClientTy.cpp",
+              "RelativeToolTip": "ClientTy\\ClientTy.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T09:26:47.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

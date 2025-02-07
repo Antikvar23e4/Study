@@ -1,0 +1,3 @@
+﻿  ConcurrentServer.cpp
+D:\University\1sem\ПСП\lab8\ConcurrentServer\ConcurrentServer\ConcurrentServer.cpp(201,32): warning C4101: e: неиспользованная локальная переменная
+  ConcurrentServer.vcxproj -> D:\University\1sem\ПСП\lab8\ConcurrentServer\x64\Debug\ConcurrentServer.exe

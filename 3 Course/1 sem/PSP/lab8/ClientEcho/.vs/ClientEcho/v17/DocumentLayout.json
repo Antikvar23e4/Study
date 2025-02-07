@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientEcho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD5AB2D-9353-4693-A953-AE759B13D7E0}|ClientEcho\\ClientEcho.vcxproj|D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientEcho\\ClientEcho\\ClientEcho.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBD5AB2D-9353-4693-A953-AE759B13D7E0}|ClientEcho\\ClientEcho.vcxproj|solutionrelative:ClientEcho\\ClientEcho.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientEcho.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientEcho\\ClientEcho\\ClientEcho.cpp",
+              "RelativeDocumentMoniker": "ClientEcho\\ClientEcho.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041F\u0421\u041F\\lab8\\ClientEcho\\ClientEcho\\ClientEcho.cpp",
+              "RelativeToolTip": "ClientEcho\\ClientEcho.cpp",
+              "ViewState": "AgIAALgAAAAAAAAAAAAgwOIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T19:38:05.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
