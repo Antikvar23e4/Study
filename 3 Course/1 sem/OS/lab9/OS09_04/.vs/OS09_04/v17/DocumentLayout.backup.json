@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041E\u0421\\lab9\\OS09_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E9CD79-D863-4780-83EC-7D74B4D56642}|OS09_04\\OS09_04.vcxproj|D:\\University\\1sem\\\u041E\u0421\\lab9\\OS09_04\\OS09_04\\OS09_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60E9CD79-D863-4780-83EC-7D74B4D56642}|OS09_04\\OS09_04.vcxproj|solutionrelative:OS09_04\\OS09_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS09_04.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041E\u0421\\lab9\\OS09_04\\OS09_04\\OS09_04.cpp",
+              "RelativeDocumentMoniker": "OS09_04\\OS09_04.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041E\u0421\\lab9\\OS09_04\\OS09_04\\OS09_04.cpp",
+              "RelativeToolTip": "OS09_04\\OS09_04.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAGAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T17:27:04.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

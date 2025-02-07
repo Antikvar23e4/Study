@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041E\u0421\\OS03_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7C52A4-064B-4A61-AACD-3B0BBAD15305}|OS03_02\\OS03_02.vcxproj|D:\\University\\1sem\\\u041E\u0421\\OS03_02\\OS03_02\\OS03_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F7C52A4-064B-4A61-AACD-3B0BBAD15305}|OS03_02\\OS03_02.vcxproj|solutionrelative:OS03_02\\OS03_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS03_02.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041E\u0421\\OS03_02\\OS03_02\\OS03_02.cpp",
+              "RelativeDocumentMoniker": "OS03_02\\OS03_02.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041E\u0421\\OS03_02\\OS03_02\\OS03_02.cpp",
+              "RelativeToolTip": "OS03_02\\OS03_02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T07:13:44.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

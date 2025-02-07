@@ -1,0 +1,4 @@
+﻿  OS09_02.cpp
+D:\University\1sem\ОС\lab9\OS09_02\OS09_02\OS09_02.cpp(75,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\University\1sem\ОС\lab9\OS09_02\OS09_02\OS09_02.cpp(108,67): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  OS09_02.vcxproj -> D:\University\1sem\ОС\lab9\OS09_02\x64\Debug\OS09_02.exe

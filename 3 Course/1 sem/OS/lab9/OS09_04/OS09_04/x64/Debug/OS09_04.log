@@ -1,0 +1,4 @@
+﻿  OS09_04.cpp
+D:\University\1sem\ОС\lab9\OS09_04\OS09_04\OS09_04.cpp(47,21): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\University\1sem\ОС\lab9\OS09_04\OS09_04\OS09_04.cpp(78,33): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  OS09_04.vcxproj -> D:\University\1sem\ОС\lab9\OS09_04\x64\Debug\OS09_04.exe

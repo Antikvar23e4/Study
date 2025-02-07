@@ -1,0 +1,14 @@
+D:\University\1sem\ОС\OS08_02\OS08_02\bin\x86\Debug\net8.0\OS08_02.exe
+D:\University\1sem\ОС\OS08_02\OS08_02\bin\x86\Debug\net8.0\OS08_02.deps.json
+D:\University\1sem\ОС\OS08_02\OS08_02\bin\x86\Debug\net8.0\OS08_02.runtimeconfig.json
+D:\University\1sem\ОС\OS08_02\OS08_02\bin\x86\Debug\net8.0\OS08_02.dll
+D:\University\1sem\ОС\OS08_02\OS08_02\bin\x86\Debug\net8.0\OS08_02.pdb
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\OS08_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\OS08_02.AssemblyInfoInputs.cache
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\OS08_02.AssemblyInfo.cs
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\OS08_02.csproj.CoreCompileInputs.cache
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\OS08_02.dll
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\refint\OS08_02.dll
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\OS08_02.pdb
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\OS08_02.genruntimeconfig.cache
+D:\University\1sem\ОС\OS08_02\OS08_02\obj\x86\Debug\net8.0\ref\OS08_02.dll

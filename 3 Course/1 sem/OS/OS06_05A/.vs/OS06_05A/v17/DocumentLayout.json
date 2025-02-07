@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041E\u0421\\OS06_05A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{527FF7B2-FD42-4529-B26C-41D436C8D2E7}|OS06_05A\\OS06_05A.vcxproj|D:\\University\\1sem\\\u041E\u0421\\OS06_05A\\OS06_05A\\OS06_05A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{527FF7B2-FD42-4529-B26C-41D436C8D2E7}|OS06_05A\\OS06_05A.vcxproj|solutionrelative:OS06_05A\\OS06_05A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS06_05A.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041E\u0421\\OS06_05A\\OS06_05A\\OS06_05A.cpp",
+              "RelativeDocumentMoniker": "OS06_05A\\OS06_05A.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041E\u0421\\OS06_05A\\OS06_05A\\OS06_05A.cpp",
+              "RelativeToolTip": "OS06_05A\\OS06_05A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T09:40:36.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

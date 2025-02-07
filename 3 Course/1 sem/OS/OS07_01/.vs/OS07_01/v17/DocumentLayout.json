@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\1sem\\\u041E\u0421\\OS07_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC03D-407C-4A39-BE39-3321FFBB2AD3}|OS07_01\\OS07_01.vcxproj|D:\\University\\1sem\\\u041E\u0421\\OS07_01\\OS07_01\\OS07_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{672EC03D-407C-4A39-BE39-3321FFBB2AD3}|OS07_01\\OS07_01.vcxproj|solutionrelative:OS07_01\\OS07_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS07_01.cpp",
+              "DocumentMoniker": "D:\\University\\1sem\\\u041E\u0421\\OS07_01\\OS07_01\\OS07_01.cpp",
+              "RelativeDocumentMoniker": "OS07_01\\OS07_01.cpp",
+              "ToolTip": "D:\\University\\1sem\\\u041E\u0421\\OS07_01\\OS07_01\\OS07_01.cpp",
+              "RelativeToolTip": "OS07_01\\OS07_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T16:27:12.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

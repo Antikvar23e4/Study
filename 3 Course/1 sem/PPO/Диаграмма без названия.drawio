@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="475" dy="233" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-1" value="Приложение" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="274" y="550" width="100" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-6" value="База данных" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="504" y="550" width="100" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Qnnj0ypqiSnXcnHVf1jM-6">
+          <mxGeometry x="45" y="70" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22dispatch%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22345%22%20y%3D%22190%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22430%22%20y%3D%22190%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22515%22%20y%3D%22190%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Qnnj0ypqiSnXcnHVf1jM-6">
+          <mxGeometry x="50" y="120" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-22" value="Поиск лекарства" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;align=left;" edge="1" parent="Qnnj0ypqiSnXcnHVf1jM-6" source="Qnnj0ypqiSnXcnHVf1jM-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="81" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="100" />
+              <mxPoint x="110" y="150" />
+            </Array>
+            <mxPoint x="60" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-26" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22dispatch%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22345%22%20y%3D%22190%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22430%22%20y%3D%22190%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22515%22%20y%3D%22190%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Qnnj0ypqiSnXcnHVf1jM-6">
+          <mxGeometry x="50" y="210" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-35" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22dispatch%22%20style%3D%22html%3D1%3BverticalAlign%3Dbottom%3BendArrow%3Dblock%3BedgeStyle%3DelbowEdgeStyle%3Belbow%3Dvertical%3Bcurved%3D0%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22345%22%20y%3D%22190%22%20as%3D%22sourcePoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22430%22%20y%3D%22190%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22515%22%20y%3D%22190%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Qnnj0ypqiSnXcnHVf1jM-6">
+          <mxGeometry x="50" y="310" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="77" y="606" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Qnnj0ypqiSnXcnHVf1jM-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82" y="606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-14" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="67" y="506" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="319" y="620" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-3" value="Выбор лекарства из каталога" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;" edge="1" parent="1" target="Qnnj0ypqiSnXcnHVf1jM-2" source="Qnnj0ypqiSnXcnHVf1jM-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="234" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-21" value="Запрос на поиск всех лекарств" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="660" as="sourcePoint" />
+            <mxPoint x="548.5" y="660.3333333333333" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-28" value="Поиск аптек, с наличием данного лекарства" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;align=left;" edge="1" parent="1" source="Qnnj0ypqiSnXcnHVf1jM-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="619" y="750" />
+              <mxPoint x="619" y="789" />
+            </Array>
+            <mxPoint x="564" y="789" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-30" value="Возврат информации о аптеках" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1" target="Qnnj0ypqiSnXcnHVf1jM-2">
+          <mxGeometry x="0.0011" relative="1" as="geometry">
+            <mxPoint x="549" y="790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="474" y="800" />
+            </Array>
+            <mxPoint x="334" y="790" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-31" value="Отображение списка аптек" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1" target="Qnnj0ypqiSnXcnHVf1jM-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="800" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="244" y="800" />
+            </Array>
+            <mxPoint x="124" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-32" value="Выбор аптеки из списка доступных" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;" edge="1" parent="1" source="Qnnj0ypqiSnXcnHVf1jM-11" target="Qnnj0ypqiSnXcnHVf1jM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="124" y="860" as="sourcePoint" />
+            <mxPoint x="314" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="224" y="860" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-34" value="Запрос на оформление бронирования" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="860" as="sourcePoint" />
+            <mxPoint x="548" y="860" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-36" value="Добавление бронирования" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;align=left;" edge="1" parent="1" source="Qnnj0ypqiSnXcnHVf1jM-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564" y="830" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="624" y="840" />
+              <mxPoint x="624" y="889" />
+            </Array>
+            <mxPoint x="569" y="889" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-38" value="Возврат информации о бронированиях" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.0011" relative="1" as="geometry">
+            <mxPoint x="549" y="900" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="474" y="910" />
+            </Array>
+            <mxPoint x="329" y="910" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qnnj0ypqiSnXcnHVf1jM-39" value="&lt;font&gt;Отображение информации о статусе бронирования&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;align=center;" edge="1" parent="1" target="Qnnj0ypqiSnXcnHVf1jM-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="920" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="244" y="920" />
+            </Array>
+            <mxPoint x="124" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
