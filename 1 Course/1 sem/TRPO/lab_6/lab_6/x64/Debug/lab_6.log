@@ -1,0 +1,7 @@
+﻿  lab6.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\Технологии разработки ПО\lab_6\lab_6\lab6.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Admin\Desktop\Уник\мои лабы\Технологии разработки ПО\lab_6\lab_6\lab6.cpp(14,7): warning C4101: symb1: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\мои лабы\Технологии разработки ПО\lab_6\lab_6\lab6.cpp(13,7): warning C4101: symbol1: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\мои лабы\Технологии разработки ПО\lab_6\lab_6\lab6.cpp(13,16): warning C4101: symbol2: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\мои лабы\Технологии разработки ПО\lab_6\lab_6\lab6.cpp(14,14): warning C4101: symb_2: неиспользованная локальная переменная
+  lab_6.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\Технологии разработки ПО\lab_6\x64\Debug\lab_6.exe

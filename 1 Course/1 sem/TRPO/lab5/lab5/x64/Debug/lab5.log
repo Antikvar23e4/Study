@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+C:\Users\Admin\Desktop\Уник\мои лабы\ТРПО\lab5\lab5\lab5.cpp(2,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab5.vcxproj -> C:\Users\Admin\Desktop\Уник\мои лабы\ТРПО\lab5\x64\Debug\lab5.exe

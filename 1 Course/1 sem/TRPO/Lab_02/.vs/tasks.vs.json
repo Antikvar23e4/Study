@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-lab02",
+      "appliesTo": "lab02.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-lab02",
+      "appliesTo": "lab02.cpp",
+      "type": "launch"
+    }
+  ]
+}
