@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Задание 5</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        @keyframes next{
+            0% {
+                background-image: url(img/5.jpg);
+                border-color: rgb(84, 213, 91);
+            }
+            25%{
+                background-image: url(img/6.jpg);
+                border-color: rgb(164, 116, 186);
+            }
+            50%{
+                background-image: url(img/7.jpg);
+                border-color: rgb(27, 32, 90);
+            }
+            75%{
+                background-image: url(img/8.jpg);
+                border-color: rgb(201, 43, 7);
+            }
+            100%{
+                background-image: url(img/19.jpg);
+                border-color:rgb(101, 62, 46);
+            }
+        }
+        div{
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 600px;
+            height: 500px;
+            animation: next infinite 5s ease-in;
+            margin:auto;
+            margin-top: 10%;
+            animation-direction:alternate;
+            border: 3px solid black;
+        }
+        body { 
+    background-color:darkseagreen;
+   }
+
+    </style>
+</head>
+<body>
+    <div></div>
+</body>
+</html>

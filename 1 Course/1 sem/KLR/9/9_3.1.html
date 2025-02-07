@@ -1,0 +1,121 @@
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="C:\Users\Professional\OneDrive\Изображения\лаб\лаб 9 html\style\page_4.css">
+        <title></title>
+        <style>
+            .grid{
+                display: grid;
+                grid-template-rows: 150px 500px 100px;
+                grid-template-columns: 10% 55% 28%;
+                grid-gap: 10px;
+                text-align: center;
+                grid-template-areas: 
+                ".nav .head .head"
+                ".nav .art .aside"
+                ".footer .footer .footer"
+            
+                ;
+            }
+            li{
+                list-style: none;
+            }
+            
+            a{
+                display: inline-block;
+                font-size: 18px;
+                text-decoration: none;
+            }
+            p{
+                font-size: 18px;
+                text-align: left;
+            }
+            a:visited{
+                color: rgb(37, 37, 62);
+            }   
+            .qwe{
+                border:solid 2px #9B3F27;
+                background-color: #D78378;
+                
+            }
+            #page {
+                display: grid;
+                grid-template-areas:
+                "nav head head"
+                "nav article aside"
+                "foot foot foot";
+                grid-template-columns: 1fr 5fr 3fr;
+                grid-template-rows: 1fr 3fr 1fr;
+                grid-column-gap: 10px;
+                grid-row-gap: 10px;
+             }
+
+            #page > nav {
+             grid-area: nav;
+             width:130px;
+             background-color: #BF634E;
+           }
+  
+            #page > header {
+             grid-area: head;
+            background-color:#9B3F27 ;
+            }
+  
+            #page > article {
+            grid-area: article;
+            background-color: #D78378;
+            }
+
+            #page > aside {
+            grid-area: aside;
+            background-color: #BF634E;
+            }
+  
+            #page > footer {
+            grid-area: foot;
+            background-color: #BF6F41;
+             }
+  </style>
+    </head>
+    <body>
+        <section id="page">
+            <nav>
+                <p>Полезные ресурсы:</p>
+                <ul class="list1a">
+                    <li><a href="https://blog.csssr.com/ru/article/css-grid-by-example/">Вёрстка на Grid</a></li>
+                    <li><a href="https://blog.csssr.com/ru/article/css-grid-by-example/">Основные понятия</a></li>
+                    <li><a href="https://blog.csssr.com/ru/article/css-grid-by-example/">Практические примеры</a></li>
+                </ul>
+            </nav>
+            <header>
+                CSS Grid Layout
+            </header>
+            <article>
+                <p>
+                    Grid шаблон работает по системе сеток. Grid это набор пересекающихся горизонтальных и вертикальных линий, 
+                    которые создают размерность и позиционируют систему координат для контента в самом grid-контейнере.
+                </p>
+                <p>
+                    Чтобы создать Grid разметку, вам просто нужно выставить элементу display: grid. Этот шаг автоматически 
+                    сделает всех прямых потомков этого элемента — grid элементами. После этого вы можете смело использовать 
+                    разнообразные grid свойства для выравнивания размеров и позиционирования элементов должным образом.
+                </p>
+            </article>
+            <aside>
+                <p>
+                    Все эти grid элементы одного размера, но они могли бы быть совершенно любого размера, такого, 
+                    какого мы захотим. Мы могли бы сделать их совершенно разными по размерам, если бы захотели. Некоторые
+                    из них могли бы охватывать несколько столбцов и рядов, другие могли бы оставаться размеров с одну ячейку.
+                    Далее в этой статье вы узнаете об этих и других функциях в grid, некоторые из которых вполне смогут вас удивить.
+                </p>
+            </aside>
+            <footer> 
+                Интспектор гридов в DevTools позволит вам увидеть линии гридов и любые пробелы между ними.
+            </footer>
+          </section>
+    </body>
+</html>

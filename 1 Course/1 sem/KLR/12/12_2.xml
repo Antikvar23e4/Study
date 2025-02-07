@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="1xml.css"?>
+
+<!DOCTYPE task [
+<!ELEMENT task (zagolovok,professions,head,hjob,hjunior,hmiddle,hsenior,profession,job,junior,middle,senior)>
+<!ELEMENT zagolovok (#PCDATA)>  <!--  определение типа элемента -->
+<!ELEMENT professions (#PCDATA)>
+<!ELEMENT head (#PCDATA)>
+<!ELEMENT hjob (#PCDATA)>
+<!ELEMENT hjunior (#PCDATA)>
+<!ELEMENT hmiddle (#PCDATA)>
+<!ELEMENT hsenior (#PCDATA)>
+<!ELEMENT profession (#PCDATA)>
+<!ELEMENT job (#PCDATA)>
+<!ELEMENT junior (#PCDATA)>
+<!ELEMENT middle (#PCDATA)>
+<!ELEMENT senior (#PCDATA)>
+<!ENTITY name "Самые востребованные технические профессии на 2021 год">    <!--  сущность --> 
+<!-- Сущность является заместителем содержания, которую можно однажды объявить и многократно использовать почти в
+любом месте документа -->
+]>
+
+<task>
+<zagolovok>&name;</zagolovok>
+<professions>
+<head>
+     <hjob>Специальность</hjob>
+     <hjunior>Новичок</hjunior>
+     <hmiddle>Миддл</hmiddle>
+     <hsenior>Сеньор</hsenior>
+</head>
+<profession>
+     <job>Security professional </job>
+     <junior>$100,000 - $124,250</junior>
+     <middle>$148,250 - $179,000</middle>
+     <senior>$174,500 - $213,000</senior> 
+</profession>
+<profession>
+     <job>Cloud architect</job>
+     <junior>$121,000</junior>
+     <middle>$174,500</middle>
+     <senior>$202,250</senior> 
+</profession>
+<profession>
+     <job>Database administrator</job>
+     <junior>$79,750</junior>
+     <middle>$120,500</middle>
+     <senior>$160,000</senior> 
+</profession>
+</professions>
+</task>

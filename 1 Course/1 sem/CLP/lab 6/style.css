@@ -1,0 +1,21 @@
+
+table {
+    border-collapse: collapse;
+    margin: 20px;
+    border:5 px;
+     width:300;
+     height:200;
+     background-color:#9370DB;
+}
+tr, td {
+    border: solid 2px black;
+    padding: 5px;
+}
+.button {
+
+    text-decoration: none;
+    background-color:plum ;
+    color: black;
+    border: 2px solid #ac5a9f;
+    
+}

@@ -1,0 +1,62 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 56px);
+    grid-column-gap: 15px;
+    grid-row-gap: 5px;
+  }
+
+  .menu { 
+    grid-area: 1 / 6 / 3 / 13; 
+  }
+  .logotip { 
+    grid-area: 1 / 1 / 3 / 5; 
+  }
+  .text1 { 
+    grid-area: 4 / 1 / 7 / 4; 
+  }
+  .text2 { 
+    grid-area: 4 / 4 / 7 / 7; 
+  }
+  .text3 { 
+    grid-area: 4 / 7 / 7 / 10; 
+  }
+  .forma { 
+    grid-area: 3 / 10 / 6 / 13; 
+  }
+  .zagolovok { 
+    grid-area: 3 / 1 / 4 / 10; 
+  }
+  .zagolovok2 { 
+    grid-area: 7 / 1 / 8 / 10; 
+  }
+  .zagolovok3 { 
+    grid-area: 6 / 10 / 7 / 13; 
+  }
+  .inform { 
+    grid-area: 11 / 1 / 13 / 13; 
+  }
+  .izobr1 { 
+    grid-area: 8 / 2 / 11 / 4; 
+  }
+  .izobr2 { 
+    grid-area: 8 / 4 / 11 / 6; 
+  }
+  .izobr3 { 
+    grid-area: 8 / 6 / 11 / 8; 
+  }
+  .izobr4 { 
+    grid-area: 8 / 8 / 11 / 10; 
+  }
+  .izobr5 { 
+    grid-area: 7 / 10 / 9 / 11; 
+  }
+  .izobr6 { 
+    grid-area: 9 / 10 / 11 / 11; 
+  }
+  .text4 { 
+    grid-area: 7 / 11 / 9 / 13; 
+  }
+  .text5 { 
+    grid-area: 9 / 11 / 11 / 13; 
+  }

@@ -1,0 +1,81 @@
+﻿@font-face {
+    font-family: 'Caveat';
+    src: url(fonts/Caveat.ttf);
+}
+
+@font-face {/*добавление нового шрифта*/
+    font-family: 'Comfortaa';
+    src: url(fonts/Comfortaa.ttf);
+}
+
+@font-face {
+    font-family: 'Exo2';
+    src: url(fonts/Exo2.ttf);
+}
+
+h1 {
+    font-family: 'Caveat';/*гарнитура шрифта*/
+    margin-top: 0;
+    margin-bottom: 0;/*позволяет убрать отступ между фрагментами текста*/
+    font-weight: bold;
+    text-align: center;/*выравнивание цвета на странице*/
+    text-transform: capitalize;/*позволяет  изменить регистр*/
+    font-size: 45px;/*размер шрифта*/
+    text-shadow: 2px 5px 10px rgb(197, 231, 127);/*добавляет тень к тексту*/
+}
+
+h2 {
+    font-family: 'Exo2';
+    margin-bottom: 0.2em;
+    margin-top: 1.2em;
+    text-indent: 25px;/*создает отступ от первой строки*/
+    text-align: left;
+}
+
+p {
+    font-family: 'Comfortaa';
+    text-indent: 25px;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 200%;
+    font-size: 20px;
+}
+
+    p::first-letter { /*Позволяет изменить  первую букву текста*/
+        font-weight: bold;
+        font-size: 45px;
+        color: white;
+        background-color: hsla(275, 100%, 10%, 1);
+    }
+
+ol {
+    font-family: "Comfortaa";
+    text-indent: 25px;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 200%;/*междустрочный инервал*/
+    font-size: 20px;
+}
+
+    ol li {
+        list-style-type: none;
+        counter-increment: item;
+    }
+
+        ol li::marker {/*измение цвета маркера нумерования списка*/
+            content: counter(item, upper-roman);
+            color: blue;
+            margin-right: 15px;
+        }
+
+.l2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body {
+    background-color: #6DAE81;
+}
+/*псевдоэлементы:afeter-вставка before marker first letter*/
+/*определение начертания стиля*/

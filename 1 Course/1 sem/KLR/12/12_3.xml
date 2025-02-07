@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="task">
+    <xs:complexType>
+    <!-- Сложный тип элемент представляет собой XML-элемент, содержащий другие элементы и / или атрибутов. -->
+      <xs:sequence>
+     	<!-- Элемент sequence определяет, что дочерние элементы должны появляться в последовательности.  -->
+        <xs:element name="zagolovok" type="xs:string" /> <!--  простой тип элемента -->
+        <xs:element name="professions">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="head">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="hjob" type="xs:string" />
+                    <xs:element name="hjunior" type="xs:string" />
+                    <xs:element name="hmiddle" type="xs:string" />
+                    <xs:element name="hsenior" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="profession">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="job" type="xs:string" />
+                    <xs:element name="junior" type="xs:string" />
+                    <xs:element name="middle" type="xs:string" />
+                    <xs:element name="senior" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

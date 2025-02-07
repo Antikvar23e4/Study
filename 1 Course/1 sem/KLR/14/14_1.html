@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>1 Задание</title>
+    <link rel="stylesheet" type="text/css" href="14_1.css">
+</head>
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" 
+height="500">
+<defs> 
+    //форма фигуры задается артрибутом d, M - начальная точка
+    <path id="idname" fill="none" stroke="black" d="M6,150C49.63,93,105.79,36.65,156.2,47.55,207.89,58.74,213,
+    131.91,264,150c40.67,14.43,108.57-6.91,229-145"/> 
+    </defs>
+    <use xlink:href="#idname"/> 
+    <text x="35px" y="100px"> 
+    <textPath xlink:href="#idname" id="text" fill="pink"> 
+        Бегу по тропинке в голове ля-ля-ля.
+    </textPath>
+</svg>
+</body>
+</html>

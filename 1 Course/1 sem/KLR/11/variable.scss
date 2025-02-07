@@ -1,0 +1,35 @@
+//переменные
+$green:#829d00;
+$brown:#774b27;
+$shrift: 'Open Sans', sans-serif; 
+$font-size:30px;
+//шаблонные селекторы'
+%text{
+    color: $brown; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 12px; 
+    line-height: 20px; 
+    margin: 0 0 20px; 
+    text-align: justify; 
+    text-justify: inter-word;
+}
+//mixin
+@mixin header{
+    color: #111; 
+    font-family: $shrift; 
+    font-size: medium;
+    line-height: 32px; 
+    text-align: center; 
+    -webkit-text-stroke: $green 0.3px;
+    margin-top: 90px;
+}
+
+@function h-size($font-size) {
+    @if ($font-size < 20px) {
+        @return 40px;
+    }
+
+    @else {
+        @return 60px;
+    }
+}

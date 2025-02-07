@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'/>
+        <link rel="stylesheet" href="lab7.css">
+    </head>
+    <body>
+    <form action="">
+		<fieldset><legend> Форма: </legend>       
+			  <!-- позволяет сгруппировать желаемую часть формы -->
+		<div>
+			<!-- текстовая область которая позволяет ввести многострочный текст -->
+			<textarea name="faculty" placeholder="Факультет информационных технологий"></textarea>
+		</div>
+		<div>
+			<!-- однострочное текстовое поле,в которое пользователь можетт ввести свои данные -->
+			<input id="lastName" type="text" name="lastName" placeholder="Фамилия"><br>
+		    <input id="name"     type="text" name="name"     placeholder="Имя"><br>
+		</div>
+		<div>
+			<!-- список выпадающих элементов -->
+		    <p>Специальность</p>
+		    <select name="specialty" id="">
+			   <option value="ПОИТ">ПОИТ</option>
+			   <option value="ИСиТ">ИСиТ</option>
+			   <option value="ДЭВИ">ДЭВИ</option>
+			   <option value="ПОИБМС">ПОИБМС</option>
+		    </select><br>
+	    </div>	
+		<div>
+			<!-- Радио-кнопка позволяет выбрать только один
+			пункт с предварительно заполненной информацией из группы -->
+			<p>Курс</p>
+			<input type="radio" name="course" value="1">1
+			<input type="radio" name="course" value="2">2
+			<input type="radio" name="course" value="3">3
+			<input type="radio" name="course" value="4">4<br>
+		</div>	
+		<div>
+			<!-- Флажок  позволяет пользователям выбирать
+			несколько пунктов с предварительно заполненной информацией из группы. -->
+			<p>Предметы</p>
+			<input name="subjects"  type="checkbox" checked = "true" value="ОИТ">ОИТ
+			<input name="subjects"  type="checkbox" value="ОАП">ОАП
+			<input name="subjects"  type="checkbox" value="История">История
+			<input name="subjects"  type="checkbox" value="Физика">Физика
+			<input name="subjects"  type="checkbox" value="Математика">Математика<br>
+		    </div>  
+		<div>
+			<button type="reset">reset</button>
+			<button type="submit">submit</button></br>
+			<!-- Кнопка отправления > предназначена длz отправления на сервер введенных данных.  -->
+			<button id="print">Напечатать</button>
+		</div>
+		</fieldset>
+	</form>
+	<script src="lab7.js"></script>
+</body>

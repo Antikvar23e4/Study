@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>     <!--  пролог -->
+<?xml-stylesheet type="text/xsl" href="lab_13.xsl"?>
+<professions>
+<head>
+     <hjob>Специальность</hjob>
+     <hjunior>Новичок</hjunior>
+     <hmiddle>Миддл</hmiddle>
+     <hsenior>Сеньор</hsenior>
+</head>
+<profession>
+     <job>Security professional </job>
+     <junior>100,000 </junior>
+     <middle>148,250 </middle>
+     <senior>174,500 </senior> 
+</profession>
+<profession>
+     <job>Cloud architect</job>
+     <junior>121,000</junior>
+     <middle>174,500</middle>
+     <senior>202,250</senior> 
+</profession>
+<profession>
+     <job>Database administrator</job>
+     <junior>79,750</junior>
+     <middle>120,500</middle>
+     <senior>160,000</senior> 
+</profession>
+</professions>

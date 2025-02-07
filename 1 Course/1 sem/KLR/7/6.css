@@ -1,0 +1,145 @@
+
+img{
+    width: 200px;
+    height: 200px;
+}
+div{
+    position: absolute;
+   
+}
+@keyframes buba{
+    0% {
+        color: rgba(229, 126, 23, 0.942);
+        opacity: 0;
+    }
+    25% {
+        color: rgb(247, 72, 72);
+        opacity: 0.2;
+    }
+    50% {
+        color: rgb(239, 218, 29);
+        opacity: 0.4;
+    }
+    75% {
+        color: rgb(109, 241, 109);
+        opacity: 0.6;
+    }
+    100% {
+        color: rgb(230, 87, 230);
+        opacity: 0.8;
+     }
+}
+h1{
+    text-align: center;
+    font-family: comic sans ms;
+    animation: buba infinite 10s linear;
+    animation-direction:alternate;
+}
+@keyframes squar{
+    0%{
+        left:0%;
+        top:0%;
+    }
+    25% {
+        left: 80%;
+        top:0%;
+    }
+    50% {
+        left: 80%;
+        top:60%;
+    }
+    75% {
+        left: 0%;
+        top:60%;
+    }
+    100%{
+        left:0%;
+        top:0%;
+    }
+}
+@keyframes goriz{
+    0%{
+        left:0%;
+        top:0%;
+    }
+    50% {
+        left: 80%;
+        top:0%;
+    }
+    100%{
+        left:0%;
+        top:0%;
+    }
+}
+@keyframes down{
+    0%{
+        left:0%;
+        top:0%;
+    }
+    50% {
+        left: 0%;
+        top:15%;
+    }
+    100%{
+        left:0%;
+        top:0%;
+    }
+}
+
+@keyframes form {
+    0%  {
+        transform: matrix(0,0,0);
+      left:0%;
+      top:20%;
+    }
+    50%  {
+        transform: matrix(1.5,0.05,0.08,-0.5,20,70);
+      left:75%;
+      top:20%;
+    }
+    100% {
+      transform: matrix(0,0,0);
+      left:0%;
+      top:20%;
+    }
+  }
+
+  @keyframes lefty{
+    0%{
+        left:0%;
+        top:50%;
+    }
+    50% {
+        left: 100%;
+        top:50%;
+    }
+    75%{
+        left:200%;
+        top:50%;
+    }
+    75.0001%{
+        left:0%;
+        top:50%;
+    }
+    100%{
+        left:0%;
+        top:50%;
+    }
+}
+#d1{
+    animation: goriz 5s linear infinite;
+}
+#d2{
+    animation: form 5s linear infinite;
+}
+#d3{
+    animation: lefty 5s linear infinite;
+}
+#d4{
+    animation:down 5s linear infinite;
+   
+}
+#d5{
+    animation: squar 10s linear infinite;
+   
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>4 Задание</title>
+    <style>
+        fieldset {
+            margin-right: 600px;
+            margin-bottom: 200px;
+            background-color: rgb(167, 208, 218);
+        }
+        canvas {
+            width: 300px;
+            height: 300px;
+            margin-left: 200px;
+            margin-top: 100px;
+            background-color: aliceblue;
+            border: 1px solid black;
+        }
+        
+    </style>
+</head>
+<body>
+    <form action="" onsubmit="draw()">
+        <fieldset>
+		<input type="radio" name="graph" value="1">y = x^2</br>
+		<input type="radio" name="graph" value="2">y = x^3</br>
+		<input type="radio" name="graph" value="3">y = sin(x)</br>
+		<input type="radio" name="graph" value="4">y = cos(x)</br>
+        <b>Цвет:</b>
+		<select name="" id="select">
+			<option value="black">Черный</option>
+			<option value="green">Зеленый</option>
+			<option value="red">Красный</option>
+			<option value="blue">Синий</option>
+		</select>
+		<button type="submit">Начертить</button>
+    </fieldset>
+	</form>
+    <script src='9_4.js'></script>
+</body>
+</html>

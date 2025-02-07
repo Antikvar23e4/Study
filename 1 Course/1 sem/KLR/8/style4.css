@@ -1,0 +1,64 @@
+.menu{
+    display: flex;
+
+}
+/*пункты меню*/
+.menu #li1,#li2,#li3,#li4{
+ width: 200px; 
+ list-style: none;  
+ background-color: azure;
+ position: relative;
+ display: inline-block;
+ background: url(img/facultet.png);
+ background-color: rgb(177, 224, 208);
+ background-repeat: no-repeat;
+}
+/*работа с ссылками*/
+.menu a{
+    color: rgb(84, 138, 120);
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+    transition: all .3s;
+    
+}
+.menu a hover{
+    background-color: rgb(155, 227, 203);
+}
+/*вложенные пункты меню*/
+.menu ul{
+position: absolute;
+left: 0;
+top: 100%;
+display: none;
+padding: 0;
+background-color: rgb(210, 226, 182);
+}
+/* появление вложенныеъч пунктов меню при наведении на родительские*/
+.menu li:hover ul{
+display: block;
+}
+#li2:hover{
+    background: url(img/facultet.png) no-repeat 0 -30px;
+}
+#li3:hover{
+    background: url(img/facultet.png) no-repeat 0 -90px;
+}
+#li4:hover{
+    background: url(img/facultet.png) no-repeat 0 -62px;
+}
+div{
+    border: 1px solid black;
+    margin: 2px;
+}
+/* пункты ит*/
+.menu li{
+    list-style: none; 
+    width: 200px; 
+    list-style: none;  
+    background-color: azure;
+    position: relative;
+}

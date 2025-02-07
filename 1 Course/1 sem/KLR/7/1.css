@@ -1,0 +1,217 @@
+img{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 2%;
+    margin-top: 5%;
+}
+h1{
+    text-align: center;
+    font-family: comic sans ms;
+    animation: buba infinite 10s linear;
+    animation-direction:alternate;
+}
+/*Первое задание*/
+#img1:hover{
+    transform: scale(0.5);/*увелечение и уменьшение масштаба*/
+}
+#img2:hover{
+    transform: rotate(45deg);/*поворот элемента на определенный угол*/
+}
+#img3:hover{
+    transform: translate(50px);/*смещение элемента с текущей позиции*/
+}
+#img4:hover{
+    transform: skew(-20deg);/*изменяет форму элемента,смещая верхнии и нижнии углы*/
+}
+@keyframes buba{
+    0% {
+        color: rgba(229, 126, 23, 0.942);
+        opacity: 0;/*прозрачность*/
+    }
+    25% {
+        color: rgb(247, 72, 72);
+        opacity: 0.2;
+    }
+    50% {
+        color: rgb(239, 218, 29);
+        opacity: 0.4;
+    }
+    75% {
+        color: rgb(109, 241, 109);
+        opacity: 0.6;
+    }
+    100% {
+        color: rgb(230, 87, 230);
+        opacity: 0.8;
+    }
+}
+/*Второе задание*/
+#img5{
+    transform: rotateX(35deg);/*вращение элемента вокруг вертикальной оси*/
+}
+#img6{
+    transform: rotateY(30deg);/*вращение элемента вокруг горизонтальной оси*/
+}
+#img7{
+    transform: rotateX(35deg);
+}
+#img8{
+    transform: rotateY(-30deg);
+}
+div{
+    display: inline-block;
+    perspective: 500px;/*создание перспективы в качестве значения выводится расстояние от плоскости монитора до то точки сходимости линий*/
+}
+/*Третье задание*/
+.but1,.but2,.but3,.but4,.but5{
+    width: 160px;
+    height: 45px;
+    background-color: aliceblue;
+    border: 2px solid;
+    border-color: hotpink;
+    font-family:monospace;
+    transition: 0.5s;
+    padding: 10px 50px 10px 50px;
+    margin: 15px 30px 15px 30px;
+    text-align: center;
+}
+
+.but1:hover {
+    color: white;
+    background-color: black;
+    border-color: black;
+    transition-duration:  3s;/*создает переход длительностью 3 сек*/
+}
+
+.but2:hover {
+    border-color:red;
+    border-width: 5px;
+    outline-color:  yellow;
+    outline-width: 5px;
+    transition-duration:  3s;
+}
+.but3:hover {
+    border-color: green transparent green transparent;
+    transition-duration:  3s;
+    
+}
+.but4:hover {
+    border-color: transparent blue transparent blue;
+    transition-duration:  3s;
+  
+}
+.but5:hover{
+    border:5px transparent;
+    background-image: radial-gradient(yellow, magenta, cyan);
+    transition-duration:  3s;
+}
+/*Четвертое задание*/
+.z4 {
+    position: relative;
+    /* Элемент позиционируется в соответствии с нормальным потоком документа */
+    min-height: 150px;
+}
+
+#img14 {
+    position: absolute;
+    /* Элемент удаляется из обычного потока документов */
+    top: 0;
+    left: 0;
+    transform: rotateY(50deg);
+    animation-name: z4img14;/*список применяемых анимаций */
+    animation-duration: 8s;/*продолжительность одного цикла*/
+    animation-iteration-count: infinite; /* Анимация повторяется бесконечно */
+    animation-direction: alternate;/* Анимация меняет направление в каждом цикле */
+}
+
+#img15 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    transform: rotateY(50deg);
+    animation-name: z4img15;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#img16 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    transform: rotateY(50deg);
+    animation-name: z4img16;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#img17 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    transform: rotateY(50deg);
+    animation-name: z4img17;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes z4img14 {
+    0%{
+
+    }
+    50%{
+        transform: rotateY(0deg);
+    }
+    100%{
+        transform: translate(0px, 0px);
+    }
+    
+}
+
+    @keyframes z4img15 {
+        0%{
+          left:30px;
+        }
+        50%{
+            transform: rotateY(0deg);
+            
+        }
+        100%{
+            transform: translate(300px, 0px);
+            filter: blur(10px);/* размытие */
+            
+        }
+}
+
+@keyframes z4img16 {
+    0%{
+        left:60px;
+    }
+    50%{
+        transform: rotateY(0deg);
+      
+    }
+    100%{
+        transform: translate(600px, 0px);
+        filter: grayscale(1);/* черно-белое*/
+        
+    }
+}
+
+@keyframes z4img17 {
+    0%{
+     left:90px;
+    }
+    50%{
+        transform: rotateY(0deg);
+        
+    }
+    100%{
+        transform: translate(900px, 0px);
+        filter: invert(1);/* инвертирует цвета */
+        
+    }
+}

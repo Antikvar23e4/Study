@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Макет 2</title>
+    <style>
+ *{
+        text-align: justify;
+        padding: 0.1aem;
+    }
+    .grid{
+        margin: 30px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-row: 1/3;
+        grid-gap: 10px;/*отступ по вертикали и горизонтали*/
+        float: left;
+        width: 45%;
+    }
+    .first{
+    grid-row-gap: 2em;
+    grid-column: 1/2;
+    grid-row: 1/3;
+    background-color: #4B4952;
+    border:#1F2024 2px solid;
+}
+    .second {
+     grid-column: 2/3;
+      grid-row: 1/2;
+      background-color: #A68F97;
+   border:#1F2024 2px solid;
+}
+    .third {
+     grid-column: 2/3;
+    grid-row: 2/3;
+    background-color: #A68F97;
+   border:#1F2024 2px solid;
+    }
+    .main {
+     grid-column: 3/4;
+     justify-self: start;
+     grid-row: 1/3;
+     background-color:#79717A ;
+    border:#1F2024 2px solid;
+    }
+    </style>
+</head>
+<body>
+    <div class="grid">
+        <div class="first">Grid-верстка — это разбиение макета на области. Сетка (grid)
+            представляет собой совокупность пересекающихся горизонтальных и вертикальных линий, разделяющих пространство gridконтейнера на области сетки, в которые могут быть помещены содержимое элементов сетки</div>
+        <div class="second">Контейнер ведет себя как блочный
+            элемент, заполняя 100 % доступной ширины. На рис. 9.2 представлены компоненты сетки, к которым относятся ячейка, область сетки, полоса (колонка или строка) сетки.</div>
+        <div class="third">Полосой сетки является
+            расстояние между двумя соседними линиями сетки. Ячейка сетки — пространство в сетке, где пересекаются горизонтальная и
+            вертикальная полосы сетки. Одна или несколько ячеек составляет
+            область сетки</div>
+        <div class="main" style="writing-mode: vertical-lr; text-orientation: upright;">HTML5 и CSS3</div>
+    </div>
+        
+</body>
+</html>

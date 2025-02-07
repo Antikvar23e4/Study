@@ -1,0 +1,6 @@
+@import url(lab_10.html) (max-width: 1280px) and (min-width: 768px)  ;
+figcaption {
+    color: rgb(95, 87, 178);
+    text-align: center;
+    flex-direction:column;
+}

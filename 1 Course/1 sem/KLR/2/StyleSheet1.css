@@ -1,0 +1,14 @@
+body {
+    background-color: #BDB76B;
+}
+body h3{/*Селектор потомков*/
+    color:yellow;
+}
+div>h2 {/*Дочерний селектор,див-родительский*/
+    color:rgb(0, 250, 154)
+}
+.span {
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+/*селектор класса

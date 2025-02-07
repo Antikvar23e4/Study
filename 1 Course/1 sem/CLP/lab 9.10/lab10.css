@@ -1,0 +1,29 @@
+.menu-item{
+    margin: 7px;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    }
+    .menu-item {
+        border: 1px solid rgba(0, 0, 0, 0.534);
+        padding: 7px;
+    }
+    .menu-item .submenu{
+    height: 20px;
+    width: 100px;
+    background: rgb(61, 218, 61);
+    position: absolute;
+    cursor: pointer;
+    border: 1px solid black;
+    margin-top: 10px;
+    text-align: center;
+    }
+   #nav{
+    background-color: rgb(130, 196, 130);
+    width: 400px;
+    border: 1px solid black;
+   }
+  

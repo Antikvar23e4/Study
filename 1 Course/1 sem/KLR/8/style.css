@@ -1,0 +1,21 @@
+ul.nav {
+    list-style-type: none;
+}
+ul.nav a {
+    display: block;
+    margin: 5px;
+    text-decoration: none;
+    font-size: 22px;
+}
+#a1:link{
+    color: red;
+}
+#a2:visited{
+    color: #8B0000;
+}
+#a3:hover{
+    color:green;
+}
+#a4:active{
+    color: rgb(184, 134, 11);
+}

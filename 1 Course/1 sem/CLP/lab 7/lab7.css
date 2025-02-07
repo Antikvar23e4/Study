@@ -1,0 +1,23 @@
+body {
+    width: 500px;
+    height: 5000px;
+    font-weight: 1000;
+    background-color: rgb(153, 225, 225);
+}
+div {
+    margin: 10px
+
+}
+textarea{
+	min-height: 50px;
+	min-width: 150px;
+	max-width: 300px;
+	max-height: 100px;
+}
+
+*{
+	margin-bottom: 5px;
+}
+p{
+	font-weight: bold;
+}

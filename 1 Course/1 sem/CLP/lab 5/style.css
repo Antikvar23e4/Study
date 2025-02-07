@@ -1,0 +1,36 @@
+h1,h2,h3{ font-size : 26px; color:purple;font-family: Monotype Corsiva; }/*групповой селектор*/
+#span1 {/*индефикатор*/
+    color: palevioletred;
+    font-family: Times New Roman;
+    font-size: 26px;
+}
+
+#span2 {
+    color: pink;
+    font-family: Times New Roman;
+    font-size : 26px;
+   
+}
+
+#span3 {
+    color: plum;
+    font-family: Times New Roman;
+    font-size: 26px;
+}
+
+.button {
+
+    text-decoration: none;
+    background-color:plum ;
+    color: black;
+    border: 2px solid #ac5a9f;
+    
+}
+table {
+    border-collapse: collapse;
+    margin: 20px;
+}
+tr, td {
+    border: solid 2px black;
+    padding: 15px;
+}

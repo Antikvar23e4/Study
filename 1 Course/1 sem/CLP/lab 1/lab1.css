@@ -1,0 +1,24 @@
+body {
+    background-color:lightpink;
+}
+
+.js {
+    background-color: lightyellow;
+    margin: 0px 718px;
+    border: solid 2px black;
+    font-size: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    margin:auto;
+    border-style:solid;
+    border-color:black;
+    table-layout: auto;
+    margin-left: 2px;
+
+}
+tr td {
+    border: solid 2px black;
+    padding: 15px;
+}

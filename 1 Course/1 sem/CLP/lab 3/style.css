@@ -1,0 +1,21 @@
+
+body{background-color:bisque}
+table {
+	border-spacing: 0;	
+	table-layout: auto;
+	margin-left: 2px;
+}
+
+td {
+	border: solid 1px #20B2AA;
+    background-color: rgb(138, 171, 200);
+	padding: 5px;
+	text-align: center;
+	border-right: none;
+	border-bottom: none;
+}
+
+td:first-child{
+	font-weight: bold;
+	font-style: italic;
+}

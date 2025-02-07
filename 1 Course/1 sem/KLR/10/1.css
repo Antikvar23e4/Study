@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* перенос на вторую строку */
+    
+}
+
+.item {
+    border: 1px black solid;
+    font-size: 20px;
+    margin: 16px;
+    flex-basis: 21.3%;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #41b3a49a;
+    color:  #ea8caa;
+}
+
+ .d1{
+    border: 1px black solid;
+    font-size: 25px;
+    flex-basis: 78%;
+    
+}
+
+body {
+    background: url(content/9.jpg)no-repeat center center fixed;
+    background-size: cover;
+    }
+
+@media (max-width: 450px) {
+    .d3 {
+        flex-basis: 73%;
+    }
+    }
+p{
+    text-align: center;
+    font-size: normall;
+    margin: auto;
+    font-style: italic;
+    color: rgb(34, 22, 70);
+}

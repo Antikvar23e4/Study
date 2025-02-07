@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Макет 1</title>
+    <style>
+    
+    *{
+        text-align: justify;
+        padding: 0.1aem;
+    }
+    .grid{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);/*сколько места занимает каждая из колонок*/
+        grid-gap: 10px;/*отступ по вертикали и горизонтали*/
+        grid-auto-rows: 280px;/*высота всех колонок*/
+        text-align: center;
+        margin: 30px;
+        float: left;
+        width: 45%;  
+    }
+    .first {
+    grid-column: 1/2;/*сколько места занимает каждая из колонок*/
+    justify-self:end;
+    background-color: #4B4952;
+    border:#1F2024 2px solid;
+    }
+
+    .second {
+    grid-column: 2/3;
+    background-color:#79717A ;
+    border:#1F2024 2px solid;
+}
+    .third {
+   grid-column: 3/4;
+   background-color: #A68F97;
+   border:#1F2024 2px solid;
+}
+
+
+
+    </style>
+</head>
+<body>
+    <div class="grid">
+        <div class="first" style="writing-mode: vertical-lr; text-orientation: upright;" >HTML5 и CSS3</div>
+        <div class="second">Модульные сетка определяет двумерную разметку колонок и
+            строк, в которые можно поместить в элементы. Страница по ширине делится на определенное количество столбцов модульной
+            сетки, которые группируются для создания колонок контейнера.
+            Некоторые элементы заполняют только одну ячейку сетки, а другие способны расширяться и размещаться в соседних колонках и
+            строках</div>
+        <div class="third">Система Skeleton — адаптивная система модульной верстки
+            веб-страниц. Система позволяет сверстать сетчатый макет структурировав контент страницы в несколько колонок на планшетных
+            устройствах, ноутбуках и компьютерах. На смартфоне содержимое
+            страницы преобразуется в одноколоночный.</div>
+    </div>
+</body>
+</html>
