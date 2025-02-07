@@ -1,0 +1,18 @@
+﻿  ConsoleApplication1.cpp
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,1): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(173,1): message : см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,1): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(174,1): message : см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(13,1): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(175,1): message : см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,1): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(176,1): message : см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,1): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(181,1): message : см. предыдущее определение "IP_REQ_TIMED_OUT"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,1): warning C4005: IP_BAD_REQ: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(182,1): message : см. предыдущее определение "IP_BAD_REQ"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,1): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(183,1): message : см. предыдущее определение "IP_BAD_ROUTE"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,1): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(184,1): message : см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+D:\Уник\КС\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,25): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
