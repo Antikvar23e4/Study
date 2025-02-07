@@ -1,0 +1,14 @@
+D:\Уник\MathProga\3\3_2\3_2\bin\Debug\net8.0\3_2.exe
+D:\Уник\MathProga\3\3_2\3_2\bin\Debug\net8.0\3_2.deps.json
+D:\Уник\MathProga\3\3_2\3_2\bin\Debug\net8.0\3_2.runtimeconfig.json
+D:\Уник\MathProga\3\3_2\3_2\bin\Debug\net8.0\3_2.dll
+D:\Уник\MathProga\3\3_2\3_2\bin\Debug\net8.0\3_2.pdb
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\3_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\3_2.AssemblyInfoInputs.cache
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\3_2.AssemblyInfo.cs
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\3_2.csproj.CoreCompileInputs.cache
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\3_2.dll
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\refint\3_2.dll
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\3_2.pdb
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\3_2.genruntimeconfig.cache
+D:\Уник\MathProga\3\3_2\3_2\obj\Debug\net8.0\ref\3_2.dll

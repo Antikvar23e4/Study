@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|solutionrelative:lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\MultiMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|solutionrelative:MultiMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\Levenshtein.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|solutionrelative:Levenshtein.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\MultyMatrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|solutionrelative:MultyMatrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|solutionrelative:stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\Levenshtein.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|solutionrelative:Levenshtein.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F24BED9-33D9-4A0A-B92D-D54BF1C5FD95}|lab4.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\lab4.cpp",
+              "RelativeDocumentMoniker": "lab4.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\lab4.cpp",
+              "RelativeToolTip": "lab4.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T12:42:12.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiMatrix.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\MultiMatrix.cpp",
+              "RelativeDocumentMoniker": "MultiMatrix.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\MultiMatrix.cpp",
+              "RelativeToolTip": "MultiMatrix.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T13:09:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultyMatrix.h",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\MultyMatrix.h",
+              "RelativeDocumentMoniker": "MultyMatrix.h",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\MultyMatrix.h",
+              "RelativeToolTip": "MultyMatrix.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T07:08:53.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-19T13:33:27.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\stdafx.cpp",
+              "RelativeDocumentMoniker": "stdafx.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\stdafx.cpp",
+              "RelativeToolTip": "stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T13:33:27.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Levenshtein.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\Levenshtein.cpp",
+              "RelativeDocumentMoniker": "Levenshtein.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\Levenshtein.cpp",
+              "RelativeToolTip": "Levenshtein.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T13:33:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Levenshtein.h",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\Levenshtein.h",
+              "RelativeDocumentMoniker": "Levenshtein.h",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\4\\lab4\\Levenshtein.h",
+              "RelativeToolTip": "Levenshtein.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-19T13:33:27.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

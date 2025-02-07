@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|solutionrelative:BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\BFS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|solutionrelative:BFS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|solutionrelative:DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|solutionrelative:6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18B7A6A9-1B72-4621-AFBC-C88DB0765C0F}|6.vcxproj|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\6.cpp",
+              "RelativeDocumentMoniker": "6.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\6.cpp",
+              "RelativeToolTip": "6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T13:20:26.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\Graph.cpp",
+              "RelativeDocumentMoniker": "Graph.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\Graph.cpp",
+              "RelativeToolTip": "Graph.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T13:20:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DFS.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\DFS.cpp",
+              "RelativeDocumentMoniker": "DFS.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\DFS.cpp",
+              "RelativeToolTip": "DFS.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T13:20:18.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BFS.h",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\BFS.h",
+              "RelativeDocumentMoniker": "BFS.h",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\BFS.h",
+              "RelativeToolTip": "BFS.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T14:38:26.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BFS.cpp",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\BFS.cpp",
+              "RelativeDocumentMoniker": "BFS.cpp",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\MathProga\\6\\6\\BFS.cpp",
+              "RelativeToolTip": "BFS.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T14:39:18.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
