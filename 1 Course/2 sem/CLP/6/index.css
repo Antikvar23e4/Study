@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+}
+table td{
+    border: 1px solid
+}
+input, textarea, button {
+    display: block;
+}
+.notes {
+    width: 200px;
+    margin: 10px;
+    border: 1px solid black;
+}

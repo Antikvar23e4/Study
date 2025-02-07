@@ -1,0 +1,21 @@
+body {
+    font-size: 18px;
+  }
+  td {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid;
+    cursor: default;
+  }
+  table {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+  thead td {
+    background: rgb(218, 233, 231);
+  }
+  table {
+    border-collapse: collapse;
+}

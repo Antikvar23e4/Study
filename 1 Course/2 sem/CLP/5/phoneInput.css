@@ -1,0 +1,27 @@
+li {
+  list-style: none;
+  display: inlineBlock;
+  margin-left: -40px;
+}
+li:hover {
+  background: rgb(235, 233, 233);
+}
+ul input[type="radio"] {
+  display: none;
+}
+ul {
+  border: 1px solid;
+  width: 152px;
+  margin-top: 3px;
+}
+img {
+  height: 10px;
+  width: 20px;
+  margin-bottom: -3px
+}
+li img {
+  margin: 0px 3px;
+}
+.numberField img, .numberField input{
+  display: inline;
+}
