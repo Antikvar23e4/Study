@@ -1,0 +1,1 @@
+SportsEquipment: Bench; Деревянная скамейка; 20; 3; 150

@@ -1,0 +1,24 @@
+Assembly Name: lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Has public constructors: true
+Public methods: 
+get_name
+set_name
+get_surname
+set_surname
+get_age
+set_age
+GetType
+ToString
+Equals
+GetHashCode
+
+Fields: 
+
+Properieties: 
+name
+surname
+age
+
+Interfaces: 
+
+Methods by parameter - undenfined: 

@@ -1,0 +1,15 @@
+D:\Уник\ООП\9\lab9\lab9\bin\Debug\net6.0\lab9.exe
+D:\Уник\ООП\9\lab9\lab9\bin\Debug\net6.0\lab9.deps.json
+D:\Уник\ООП\9\lab9\lab9\bin\Debug\net6.0\lab9.runtimeconfig.json
+D:\Уник\ООП\9\lab9\lab9\bin\Debug\net6.0\lab9.dll
+D:\Уник\ООП\9\lab9\lab9\bin\Debug\net6.0\lab9.pdb
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.csproj.AssemblyReference.cache
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.AssemblyInfoInputs.cache
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.AssemblyInfo.cs
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.dll
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\refint\lab9.dll
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.pdb
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\lab9.genruntimeconfig.cache
+D:\Уник\ООП\9\lab9\lab9\obj\Debug\net6.0\ref\lab9.dll

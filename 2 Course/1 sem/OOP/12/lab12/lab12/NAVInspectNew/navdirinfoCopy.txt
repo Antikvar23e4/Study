@@ -1,0 +1,14 @@
+Файлы: 
+D:\lab12.deps.json
+D:\lab12.dll
+D:\lab12.exe
+D:\lab12.pdb
+D:\lab12.runtimeconfig.json
+Папки: 
+Файлы: 
+D:\lab12.deps.json
+D:\lab12.dll
+D:\lab12.exe
+D:\lab12.pdb
+D:\lab12.runtimeconfig.json
+Папки: 

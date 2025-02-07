@@ -1,0 +1,8 @@
+D:\Уник\ООП\13\Lab13_1\Lab13_1\bin\Debug\Lab13_1.exe.config
+D:\Уник\ООП\13\Lab13_1\Lab13_1\bin\Debug\Lab13_1.exe
+D:\Уник\ООП\13\Lab13_1\Lab13_1\bin\Debug\Lab13_1.pdb
+D:\Уник\ООП\13\Lab13_1\Lab13_1\obj\Debug\Lab13_1.csproj.AssemblyReference.cache
+D:\Уник\ООП\13\Lab13_1\Lab13_1\obj\Debug\Lab13_1.csproj.SuggestedBindingRedirects.cache
+D:\Уник\ООП\13\Lab13_1\Lab13_1\obj\Debug\Lab13_1.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\13\Lab13_1\Lab13_1\obj\Debug\Lab13_1.exe
+D:\Уник\ООП\13\Lab13_1\Lab13_1\obj\Debug\Lab13_1.pdb

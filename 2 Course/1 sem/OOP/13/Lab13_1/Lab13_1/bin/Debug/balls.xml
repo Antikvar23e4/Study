@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfTennisBall xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TennisBall>
+    <Name>Фиолетовый мяч </Name>
+    <Weight>0.4</Weight>
+    <IsRepaired>true</IsRepaired>
+  </TennisBall>
+  <TennisBall>
+    <Name>Розовый мяч</Name>
+    <Weight>0.6</Weight>
+    <IsRepaired>false</IsRepaired>
+  </TennisBall>
+  <TennisBall>
+    <Name>Оранжевый мяч </Name>
+    <Weight>0.3</Weight>
+    <IsRepaired>true</IsRepaired>
+  </TennisBall>
+</ArrayOfTennisBall>

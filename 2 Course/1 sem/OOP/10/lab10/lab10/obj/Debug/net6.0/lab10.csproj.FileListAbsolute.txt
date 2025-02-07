@@ -1,0 +1,15 @@
+D:\Уник\ООП\10\lab10\lab10\bin\Debug\net6.0\lab10.exe
+D:\Уник\ООП\10\lab10\lab10\bin\Debug\net6.0\lab10.deps.json
+D:\Уник\ООП\10\lab10\lab10\bin\Debug\net6.0\lab10.runtimeconfig.json
+D:\Уник\ООП\10\lab10\lab10\bin\Debug\net6.0\lab10.dll
+D:\Уник\ООП\10\lab10\lab10\bin\Debug\net6.0\lab10.pdb
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.csproj.AssemblyReference.cache
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.AssemblyInfoInputs.cache
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.AssemblyInfo.cs
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.dll
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\refint\lab10.dll
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.pdb
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\lab10.genruntimeconfig.cache
+D:\Уник\ООП\10\lab10\lab10\obj\Debug\net6.0\ref\lab10.dll

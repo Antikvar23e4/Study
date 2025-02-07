@@ -1,0 +1,16 @@
+Имя сборки, в которой определен класс lab11.InventoryItem: 
+lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Есть ли публичные конструкторы: Тип имеет публичный конструктор
+Все публичные методы:
+System.String get_Name()
+Double get_Weight()
+System.String ToString()
+Void SetName(System.String)
+Void AppendToName(System.String)
+Все поля и свойства: 
+Name
+Weight
+Все реализованные интерфейсы:
+Все методы, у которых есть параметр типа System.String: 
+SetName
+AppendToName

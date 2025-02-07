@@ -1,0 +1,6 @@
+28.10.2023 13:18, Info: Test log message (FileLogger)
+28.10.2023 13:18, Error: An error occurred: Attempted to divide by zero.
+28.10.2023 13:25, Info: Test log message (FileLogger)
+28.10.2023 13:25, Error: An error occurred: Attempted to divide by zero.
+18.11.2023 14:15, Info: Test log message (FileLogger)
+18.11.2023 14:15, Error: An error occurred: Attempted to divide by zero.
