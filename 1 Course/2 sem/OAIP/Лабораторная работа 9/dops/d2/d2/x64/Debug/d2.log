@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 9\dops\d2\d2\FileName.cpp(44,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  d2.vcxproj -> C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 9\dops\d2\x64\Debug\d2.exe

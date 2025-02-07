@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 2\3 var\3_1\3_1\Source.cpp(162,9): warning C4805: ==: небезопасное смешение типа "float" и типа "bool" в операции
+  3_1.vcxproj -> C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 2\3 var\3_1\x64\Debug\3_1.exe

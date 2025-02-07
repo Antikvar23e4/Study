@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 10\13_0\13_0\FileName.cpp(33,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 10\13_0\13_0\FileName.cpp(289,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 10\13_0\13_0\FileName.cpp(382,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  13_0.vcxproj -> C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 10\13_0\x64\Debug\13_0.exe

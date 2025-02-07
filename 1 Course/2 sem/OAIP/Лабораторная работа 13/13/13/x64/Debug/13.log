@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 13\13\13\FileName.cpp(139,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 13\13\13\FileName.cpp(163,18): error C2371: start: переопределение; различные базовые типы
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 13\13\13\FileName.cpp(154,18): message : см. объявление "start"
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 13\13\13\FileName.cpp(165,18): error C2371: end: переопределение; различные базовые типы
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 13\13\13\FileName.cpp(156,18): message : см. объявление "end"

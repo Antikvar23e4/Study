@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 5\5\5\5\FileName.cpp(34,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 5\5\5\5\FileName.cpp(41,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 5\5\5\5\FileName.cpp(96,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 5\5\5\5\FileName.cpp(211,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  5.vcxproj -> C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 5\5\5\x64\Debug\5.exe

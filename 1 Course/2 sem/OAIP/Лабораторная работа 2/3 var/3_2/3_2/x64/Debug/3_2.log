@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 2\3 var\3_2\3_2\Source.cpp(62,16): warning C4101: enter1: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 2\3 var\3_2\3_2\Source.cpp(62,9): warning C4101: enter: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 2\3 var\3_2\3_2\Source.cpp(152,13): warning C4805: ==: небезопасное смешение типа "float" и типа "bool" в операции
+  3_2.vcxproj -> C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 2\3 var\3_2\x64\Debug\3_2.exe

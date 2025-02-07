@@ -1,0 +1,15 @@
+﻿  lab_4.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\СД\lab_4\lab_4\lab_4.cpp(484,3): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\string(83,32): message : может быть "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\СД\lab_4\lab_4\lab_4.cpp(484,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'std::basic_string<_Elem,_Traits,_Alloc> &' из 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\string(76,32): message : или       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)"
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\СД\lab_4\lab_4\lab_4.cpp(484,3): message : "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)": ожидаются аргументы 3 — 2 предоставлены
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\string(69,32): message : или       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\СД\lab_4\lab_4\lab_4.cpp(484,3): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'std::basic_string<_Elem,_Traits,_Alloc> &' из 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\string(26,32): message : или       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)"
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\СД\lab_4\lab_4\lab_4.cpp(484,3): message : "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)": ожидаются аргументы 3 — 2 предоставлены
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\СД\lab_4\lab_4\lab_4.cpp(720,38): warning C4244: аргумент: преобразование "float" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]

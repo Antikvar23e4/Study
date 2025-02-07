@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 3\5\5_1\5_1\FileName.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 3\5\5_1\5_1\FileName.cpp(11,12): warning C4101: fSizeOfA: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 3\5\5_1\5_1\FileName.cpp(12,12): warning C4101: fSizeOfB: неиспользованная локальная переменная
+  5_1.vcxproj -> C:\Users\Admin\Desktop\Уник\ЛАБЫ\ОАИП\Лабораторная работа 3\5\5_1\x64\Debug\5_1.exe
